@@ -1,9 +1,7 @@
 # 💻
 
 <h1 id="cover-heading">
-  Docsify Open MultiCourse Hub
+  DGL 104 - App Development Foundations
 </h1>
 
-[CPT363-1](cpt363-1/home.md)
-[CPT363-2](cpt363-2/home.md)
-[CPT363-3](cpt363-3/home.md)
+[DGL104-CVS1-2025WI](dgl104-cvs1/home.md)
