@@ -21,7 +21,7 @@ A key step to writing good tests is ensuring sufficient test coverage, and appro
 ## ACTIVITIES
 
 ### [REQUIRED] WRITE TESTS FOR MAP IT
-The [Map It MVC Testing Guide](https://github.com/nic-dgl104-winter-2024/guide-mapit-mvc-testing) contains an implementation of Map It that follows the Model View Controller (MVC) architecture pattern. Since `AI2` doesn't actually support MVC this is a fairly ad hoc effort, and those of you already familiar with MVC might note some bleeding of references and data between model and view. Nevertheless, the blocks are reasonably well-separated, and importantly, modular. 
+The [Map It MVC Testing Guide](https://github.com/nic-dgl104-winter-2025/guide-mapit-mvc-testing) contains an implementation of Map It that follows the Model View Controller (MVC) architecture pattern. Since `AI2` doesn't actually support MVC this is a fairly ad hoc effort, and those of you already familiar with MVC might note some bleeding of references and data between model and view. Nevertheless, the blocks are reasonably well-separated, and importantly, modular. 
 
 Your task is to identify appropriate units of the block-based code to test, and to create tests that demonstrate the units of code operate correctly on valid inputs.
 

@@ -106,3 +106,4 @@ In preparation for the Community Code project I'd like you to familiarize yourse
 
 
 ## OPTIONAL RESOURCES
+N/A

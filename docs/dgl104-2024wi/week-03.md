@@ -23,7 +23,7 @@ The following video builds on some of these ideas, but I do recommend you also t
 ### [REQUIRED] REFACTOR MAP IT
 [Map It](https://appinventor.mit.edu/explore/displaying-maps) is an `AI2` app that allows the user to log physical addresses and view them in Google Maps. The tutorial describes the use of the app and demonstrates the necessary code to produce it. The source code is also available through a link at the bottom of the tutorial page.
 
-Your task for this activity is to refactor a portion of the Map It code. To this end, I have provided a [repository in our organization](https://github.com/nic-dgl104-winter-2024/guide-mapit-refactor) that includes two versions of the completed Map It code, and a short walkthrough of some refactoring techniques you might consider as you work through this activity. 
+Your task for this activity is to refactor a portion of the Map It code. To this end, I have provided a [repository in our organization](https://github.com/nic-dgl104-winter-2025/guide-mapit-refactor) that includes two versions of the completed Map It code, and a short walkthrough of some refactoring techniques you might consider as you work through this activity. 
 
 ### [REQUIRED] POST PROGRAMMING PRACTICE ARTICLE SUMMARY ON SLACK
 You now have about three weeks to complete your Programming Practice article. By this time, you should definitely have an idea of the topic that you would like to write about. For this activity, please post a brief summary on our DGL 104 Slack channel describing your article. You can use the following as a template:

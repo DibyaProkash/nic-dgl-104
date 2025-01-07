@@ -20,7 +20,7 @@ The design patterns presented in the following video are a couple of the more we
 Make sure to visit the description of the Community Code assignment on Brightspace. You should read the assignment description and the rubric in detail to familiarize yourself with expectations.
 
 ### [RECOMMENDED] READ THE RESEARCH AND REFLECTION GUIDE
-I've added a new [Research and Reflection Journal guide](https://github.com/nic-dgl104-winter-2024/guide-research-reflection-journal) on GitHub. This document should be a big help to you if you are having trouble identifying how to use your Research and Reflection journal.
+I've added a new [Research and Reflection Journal guide](https://github.com/nic-dgl104-winter-2025/guide-research-reflection-journal) on GitHub. This document should be a big help to you if you are having trouble identifying how to use your Research and Reflection journal.
 
 ### [REQUIRED] READ "HOW TO CONTRIBUTE TO OPEN SOURCE"
 GitHub's [Open Source Guides](https://opensource.guide/) site includes a guide titled ["How to Contribute to Open Source"](https://opensource.guide/how-to-contribute/), which is a fantastic overview of the variety of contributions that may be possible in healthy open source communities. The guide is written a bit like a how-to, so that you have an opportunity to put into practice what you learn as you read.

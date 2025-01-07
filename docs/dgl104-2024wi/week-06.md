@@ -19,9 +19,9 @@ _A guide and collection of resources to support student work in the development 
 > **TL;DR**: Write your Programming Practice article in a GitHub `README.md` file in a fresh repo; write any project-level documentation for your `AI2` project in a `README.md` file in your `AI2` repo.
 
 #### RESOURCES
-- Read the [Programming Practice Article Resources](https://github.com/nic-dgl104-winter-2024/guide-programming-practice-article) guide to ensure you understand the basics of GitHub markdown formatting.
+- Read the [Programming Practice Article Resources](https://github.com/nic-dgl104-winter-2025/guide-programming-practice-article) guide to ensure you understand the basics of GitHub markdown formatting.
 - Use the [GitHub markdown guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) to learn about additional markdown features.
-- Read the [Creating new repositories](https://github.com/nic-dgl104-winter-2024/guide-ai2-repo-management?tab=readme-ov-file#creating-new-repositories) section of the [MIT App Inventor Resources and Guide](https://github.com/nic-dgl104-winter-2024/guide-ai2-repo-management) if you need help creating a new repository in the DGL 104 GitHub organization.
+- Read the [Creating new repositories](https://github.com/nic-dgl104-winter-2025/guide-ai2-repo-management?tab=readme-ov-file#creating-new-repositories) section of the [MIT App Inventor Resources and Guide](https://github.com/nic-dgl104-winter-2025/guide-ai2-repo-management) if you need help creating a new repository in the DGL 104 GitHub organization.
 
 #### RATIONALE
 The most critical criteria in a writing tool for both the Programming Practice article and the `AI2` project is that it displays code cleanly and unambiguously. Hands down, given your experience using GitHub and `README.md` files in this class and others, the best option is a `README.md` file in a GitHub repository.
@@ -39,15 +39,15 @@ While you could conceivably write code in Word or Pages, there is a lot of unnec
 
 ### HOW TO SUBMIT PROJECTS PROPERLY
 
-> **TL;DR**: All DGL 104 work should be contained in fresh GitHub repositories (i.e. a new repo for each project), hosted on the [DGL 104 GitHub organization](https://github.com/nic-dgl104-winter-2024). To submit your work, provide an appropriate url (or file_) in the associated BrightSpace assignment dropbox. This is important, since I use your BrightSpace submission to track when you have _completed_ your work. 
+> **TL;DR**: All DGL 104 work should be contained in fresh GitHub repositories (i.e. a new repo for each project), hosted on the [DGL 104 GitHub organization](https://github.com/nic-dgl104-winter-2025). To submit your work, provide an appropriate url (or file_) in the associated BrightSpace assignment dropbox. This is important, since I use your BrightSpace submission to track when you have _completed_ your work. 
 
 #### RESOURCES
 
-- Read the [Creating new repositories](https://github.com/nic-dgl104-winter-2024/guide-ai2-repo-management?tab=readme-ov-file#creating-new-repositories) section of the [MIT App Inventor Resources and Guide](https://github.com/nic-dgl104-winter-2024/guide-ai2-repo-management) if you need help creating a new repository in the DGL 104 GitHub organization.
+- Read the [Creating new repositories](https://github.com/nic-dgl104-winter-2025/guide-ai2-repo-management?tab=readme-ov-file#creating-new-repositories) section of the [MIT App Inventor Resources and Guide](https://github.com/nic-dgl104-winter-2025/guide-ai2-repo-management) if you need help creating a new repository in the DGL 104 GitHub organization.
 - See the steps for submission for the [Programming Practice article](#programming-practice-article) and the [`AI2` project](#ai2-project) below.
 
 #### RATIONALE
-Ideally, all work done for DGL 104 appears in the [DGL 104 GitHub organization](https://github.com/nic-dgl104-winter-2024). There are a couple reasons for this:
+Ideally, all work done for DGL 104 appears in the [DGL 104 GitHub organization](https://github.com/nic-dgl104-winter-2025). There are a couple reasons for this:
 1. **Using GitHub in this way is an important skill to cultivate:** You might be more accustomed to engaging with GitHub by accepting class assignments from GitHub classroom. That is _not_ the approach we take in DGL 104. Instead, I want you to gain experience creating repositories from scratch.
 
 2. **Hosting code in a single organization makes it _public_ to the class, but _private_ to everyone else:** This means that as peers you can see each others' work, and arranging code reviews is much easier. If everyone created repos on their own GitHub accounts it would require permissions management to do code reviews.
