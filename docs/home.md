@@ -1,14 +1,13 @@
-# DGL 104: App Development Foundations
+# DGL 104 Application Development Foundations
 
 ---
 
-![MultiCourse Hub](assets/images/mobile_app_dev.jpg ':class=banner-tall-image')
+![MultiCourse Hub](assets/images/clark-van-der-beken-xApC8DIiD54-unsplash.jpg ':class=banner-tall-image')
 
-## [DGL104-2025WI](dgl104-wi25/home.md)
-The Winter 2024 offering of DGL 104.
 
-<!-- ## [CPT363-2](cpt363-2/home.md)
-A short description of the CPT363-2 course would go here.
-
-## [CPT363-3](cpt363-3/home.md)
-A short description of the CPT363-3 course would go here. -->
+## [DGL104-Winter2025](dgl104-2024wi/course-welcome.md)
+The Winter 2025 offering of DGL 104.
+<!-- ## [DGL104-Winter2024](dgl104-2024wi/course-welcome.md)
+The Winter 2024 offering of DGL 104. -->
+<!-- ## [DGL104-Winter2023](dgl104-2023wi/course-welcome.md)
+The Winter 2023 offering of DGL 104. -->
