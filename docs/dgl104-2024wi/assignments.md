@@ -7,7 +7,7 @@ The following provides a high-level description of assignments to be completed i
 To write a compelling article on a topic of your choice in line with course learning outcomes.
 
 ### DEADLINE <!-- {docsify-ignore} -->
-**Week 6 (Week of February 11)**
+> **Week 6 (Week of February 11)**
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 A key method of demonstrating good programming practice is to write an article that expands upon a topic of interest that we cover in the early semester. This article must demonstrate value to a potential future learner in this course, or in a related course. The article must be well-researched and must include references to any sources you use to develop the article. The article must also include code, either as demonstration of good coding practices, or in the form of a tutorial. 
@@ -32,7 +32,7 @@ At minimum, your completed article must:
 To demonstrate skill in app development using appropriate design paradigms.
 
 ### DEADLINE <!-- {docsify-ignore} -->
-**Week 6 (Week of February 11)**
+> **Week 6 (Week of February 11)**
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 Our first steps in the practice of developing apps will begin on day one of class. However, you will not develop apps using native Android or iOS technologies, but rather by use of the [MIT App Inventor](https://appinventor.mit.edu/), an [open source](https://github.com/mit-cml/appinventor-sources) visual and blocks-based programming tool that can be used to develop simple (and even somewhat complex!) apps. 
@@ -54,7 +54,7 @@ This assignment is contextualized in part by ethical considerations in app devel
 To produce a portfolio of research and reflection related to course content.
 
 ### DEADLINE <!-- {docsify-ignore} -->
-**Week 13 (Week of April 1)**
+> **Week 13 (Week of April 1)**
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 We'll be adopting a reflective process as part of all work done in DGL 104. With each day's class, all homework, and each assignment you'll be asked to record goals, strategies and process, then reflect on successes and failures after completion. In the latter half of the course (after reading break) will formalize this as an assignment, which you will work on in collaboration with your community code project.
@@ -69,7 +69,7 @@ We'll be adopting a reflective process as part of all work done in DGL 104. With
 To engage good coding practices in support of a specific open source development community.
 
 ### DEADLINE <!-- {docsify-ignore} -->
-**Week 13 (Week of April 1)**
+> **Week 13 (Week of April 1)**
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 Throughout the latter half of the semester you will be guided through lecture and activities to join an open source community of your choice (and that hopefully coincides with your interests!) in order to support that community through active engagement and good coding practices. The material outcome of this assignment is code that you produce in your chosen language that is intended - perhaps in only a minor way - to *contribute* to your community, but that *also* demonstrates good coding practices and engagement with interests and concerns outside of your program of study.

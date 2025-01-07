@@ -1,4 +1,17 @@
 # WEEK 6 (WEEK OF FEBRUARY 11)
+
+<!-- > # What’s Happening This Week -->
+> # Important Reminders
+> ### Course Assignment Submissions:
+> * [Programming Practice Article](#) assignment <span class='badge'> Sun Feb 16th, 2025 at 11:59pm PST</span>
+> * [App Inventor Project](#) assignment <span class='badge'> Sun Feb 16th, 2025 at 11:59pm PST</span>
+>
+> ### Required Reading
+> * [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
+>
+> [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
+
+
 ## MID-SEMESTER WORK PERIOD
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**
