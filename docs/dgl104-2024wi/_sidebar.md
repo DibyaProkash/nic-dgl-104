@@ -1,4 +1,4 @@
-**DGL104-2023wi**
+**DGL104 2025WI CVS1**
 
 - [Course Welcome](dgl104-2024wi/course-welcome)
 - [Week 1](dgl104-2024wi/week-01)
