@@ -1,4 +1,8 @@
 # WEEK 12 (WEEK OF MARCH 25)
+> # Important Reminders
+> ### Course Assignment Submissions: <!-- {docsify-ignore} -->
+> * [Community Code Project](https://mycourses.nic.bc.ca/d2l/le/lessons/41796/topics/733444) assignment <span class='badge'> Sun Mar 30th, 2025 at 11:59pm PST</span>
+
 ## LECTURE - FUNCTIONAL PROGRAMMING
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**
