@@ -4,4 +4,4 @@
   DGL 104 Hub
 </h1>
 
-[DGL104-2023WI](dgl104-2023wi/home.md)
+[DGL104 2025WI](dgl104-2024wi/home.md)
