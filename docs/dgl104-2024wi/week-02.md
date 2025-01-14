@@ -34,8 +34,8 @@ const age = 24
 However, since style itself has little bearing on the function of the language, there is rarely 100% agreement on what actually constitutes good style. Detailed style guides are also more common with languages that are less strict, since there are more opportunities for personal expression.
 
 ## ACTIVITIES
-### [RECOMMENDED] MIT APP INVENTOR PROJECT BRAINSTORM
-Now that you have some experience with `AI2` start thinking about the type of app you might create for your MIT App Inventor project (due the week of Feb. 12). You can build any kind of app you like, but there are specific requirements that you must meet (described on Brightspace). Feel free to use any brainstorming method you like and try to come up with a shortlist of possible apps, since you may find your first choice is infeasible for one reason or another.
+### [RECOMMENDED] MIT APP INVENTOR PROJECT BRAINSTORM 📝
+Now that you have some experience with `AI2` start thinking about the type of app you might create for your MIT App Inventor project (**due the week of Feb. 11**). You can build any kind of app you like, but there are specific requirements that you must meet (described on Brightspace). Feel free to use any brainstorming method you like and try to come up with a shortlist of possible apps, since you may find your first choice is infeasible for one reason or another.
 
 Some advice:
 - Check out the [AI2 repo management guide](https://github.com/nic-dgl104-winter-2025/guide-ai2-repo-management) to get a sense how best to handle your `AI2` repo.
@@ -43,15 +43,16 @@ Some advice:
 - Feel free to reach out to me, or to your peers, to ask for feedback on your ideas.
 - If you know about user stories feel free to generate some to help you identify features.
 
-This activity is recommended because development on this project will start in earnest in Week 3. It's better if you enter week 3 prepared, but you can try to jam this work into Week 3, if you prefer to live on the edge. :D
+This activity is recommended because development on this project will start in earnest in Week 3. It's better if you enter week 3 prepared, but you can try to jam this work into Week 3, if you prefer to live on the edge. 😄
 
 
 ### [REQUIRED] SECOND `AI2` APP
 Last week you completed the [Space Invaders tutorial](http://appinventor.mit.edu/explore/ai2/space-invaders). This week you'll complete a second [tutorial](https://appinventor.mit.edu/explore/ai2/tutorials) (or you can complete one of the more advanced [AI-based tutorials](https://appinventor.mit.edu/explore/ai-with-mit-app-inventor)). I recommend you choose a tutorial that is in line with an app that you might be interested in developing as part of your MIT App Inventor project (due the week of Feb. 12). By the end of completing this second tutorial I expect that you'll be feeling fairly confident with `AI2` and will be prepared to start developing your own app.
 
 However, there is a catch! For this second tutorial you will push your code to a repository on our GitHub organization and you will do the following:
-1. Write some project-level documentation that describes the project; and
-2. Participate in a brief code review with a peer.
+1. Write some project-level documentation that describes the project; 
+2. Participate in a brief code review with a peer; and
+3. Submit your works in the Github repository. The link of the Github repo for this task: [GitHub Repo](https://classroom.github.com/a/HRSUtpAL)
 
 The advantage to working on a defined project for these tasks is that you don't have to think too creatively when it comes to the project documentation. That doesn't mean you can just copy and paste content - write in your own words, or provide appropriate references if you use an external source - but it should be an easier process. 
 
