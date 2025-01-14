@@ -5,6 +5,8 @@
 >
 > Modified by: Dibya Prokash Sarkar
 
+![Documentation and Code Review](images/code-documentation.jpg ':class=banner-image')
+
 ### DOCUMENTATION
 You may have gleaned from Week 1 content that documentation processes will be a critical part of this course. For the first half of the semester we'll practice documentation in a relatively informal way (particularly since documentation in `AI2` isn't quite as smooth as it is in a GitHub repo, or even in a typical IDE), and I'll encourage you to take every opportunity to develop a documentary practice (via journals, repository documenting, and in-code commenting, among others) before we move to a formal practice in the second half of the semester.
 
