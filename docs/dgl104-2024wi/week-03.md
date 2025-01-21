@@ -18,6 +18,8 @@ The following video builds on some of these ideas, but I do recommend you also t
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/iA5cFchPu0I"></iframe></div>
 
+The source to the YouTube video: [YouTube Video](https://www.youtube.com/watch?v=iA5cFchPu0I&ab_channel=AshleyBlacquiere)
+
 ## ACTIVITIES
 
 ### [REQUIRED] REFACTOR MAP IT
