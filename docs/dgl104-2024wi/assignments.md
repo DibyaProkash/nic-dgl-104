@@ -72,7 +72,7 @@ We'll be adopting a reflective process as part of all work done in DGL 104. With
 ---
 ## CODING PROJECT <!-- {docsify-ignore} -->
 ### OBJECTIVE <!-- {docsify-ignore} -->
-To engage good coding practices in support of a specific open source development community.
+To engage in such good coding practices a critical component is that you must write code in order to develop this project along with your peers.
 
 >### DEADLINE <!-- {docsify-ignore} -->
 > **Week 13 (Week of April 1)**
@@ -80,21 +80,28 @@ To engage good coding practices in support of a specific open source development
 > Due date: <span class='badge'> Sun Apr 6th, 2025 at 11:59pm PST</span>
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
-Throughout the latter half of the semester you will be guided through lecture and activities to join an open source community of your choice (and that hopefully coincides with your interests!) in order to support that community through active engagement and good coding practices. The material outcome of this assignment is code that you produce in your chosen language that is intended - perhaps in only a minor way - to *contribute* to your community, but that *also* demonstrates good coding practices and engagement with interests and concerns outside of your program of study.
+The objective of this project is to design and develop a AI-Powered Smart Task Management System (STMS) that allows you and your users to efficiently create, assign, track, and manage tasks. This project will enable you to apply software design patterns, code reviewing and refactoring techniques, debugging strategies, and CI/CD pipelines while developing a scalable and maintainable application.
 
-What constitutes *contribution* is dependent on your community, your level of programming expertise, and the amount of time you can devote to this project. The following is a non-exhaustive list of examples ordered from most approachable (i.e. easiest) to most challenging (i.e. hardest):
-- Improved code documentation (which would include *code examples* for demonstration).
-- Answering community questions (if you are part of a novice or beginner community you may have access to a beginner forum; if you have sufficient knowledge in your community you can answer questions for other novices - just make sure you *write code* to support and demonstrate that your answer is correct!).
-- Partial or complete tutorial (imagine writing a *coding tutorial* for your community that you wish you had had when you first joined)
-- Translation / localization of a code base (many open source projects are multi-lingual, but don't always have fluent coders in target languages; make sure you are *writing translated code* as part of this).
-- Contribute to open issues or pull requests on GitHub (this could include *writing code* for bug fixing or feature development).
+Key Learning Goals:
+- Applying Design Patterns: Students will implement at least four design patterns (e.g., Factory, Observer, Singleton, Strategy, Command, or Decorator) to structure your application efficiently.
+- Developing Scalable Architecture: The system should follow modular coding practices to ensure maintainability and reusability.
+- Automating Testing & Deployment: You will integrate CI/CD pipelines for continuous integration, testing, and deployment.
+- Implementing Debugging & Logging: The application should include error handling, debugging techniques, and proper logging mechanisms.
+- Enhancing Security: You will follow security best practices, such as authentication (e.g., OAuth), input validation, and secure database queries.
 
-You will record all progress and work completed for this assignment in a GitHub repository with a well-organized and detailed README.md file.
+
+By the end of this project, you will have hands-on experience in **architecting**, **developing**, **testing**, and **deploying a real-world application** while following industry-standard software development practices.
+
+
+
+This is a group assignment. A group of 3 members is going to work on a single project idea. You can join the group by filling out the link provided here: [Google Spreadsheet Link](https://docs.google.com/spreadsheets/d/1-35hbdRHeLw5NHOnC02vlY2vMeCqDxoB52vW2i52Xn8/edit?usp=sharing)
+
+This assignment will be developed into two phases. This will allow you to keep working on the project in a manageable manner within a month, ensures gradual progress with two structured phases, and learn practical development with real-world application. Although you must contribute to both parts, you need to ensure that you contribute code to both parts (along with other contributions include improving documentation, issue management and triaging, bug reporting, site development, etc.).
 
 ### SUGGESTIONS AND STRATEGIES <!-- {docsify-ignore} -->
 - Notice that I've been specific (in *italics*) in each example above in terms of how you might *write code* in your contribution. **It is a requirement that you write code** for this assignment; however, it is *not* a requirement that you share your code with anyone other than me. In other words, you should be able to justify how the code you write *could* help your community, but you need not share it publicly, if you're not comfortable doing so.
 - Contributions for this assignment must be substantial and weekly engagement is expected. This assignment runs from week 8 all the way to week 14 and I expect that you will continue to work on this assignment outside of class time as homework. In total, you should be able to account for on the order of 20 or so hours over the course the semester devoted to this assignment. 
 - Create your GitHub repository early and use the repository README.md file to track progress. Keep careful notes on your progress, as this will help you in self-evaluations!
-- Some communities have a well-defined hub of activity (like a Slack, Discord or Zulip channel, or a forum of some sort), and others will be more decentralized. Part of your work in identifying your community will be in identifying the main resources you will rely on through the semester.
+
 - Clearly articulating for yourself what you think the goals of your chosen community are can help to keep your code project on track.
 - Consistently maintaining documentation is a key component to demonstrating your learning journey in this assignment.
