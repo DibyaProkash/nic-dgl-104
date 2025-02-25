@@ -58,9 +58,9 @@ This assignment is contextualized in part by ethical considerations in app devel
 To produce a portfolio of research and reflection related to course content.
 
 >### DEADLINE <!-- {docsify-ignore} -->
-> **Week 12 (Week of March 25)**
+> **Week 13 (Week of April 1)**
 >
-> Due date: <span class='badge'> Sun Mar 30th, 2025 at 11:59pm PST</span>
+> Due date: <span class='badge'> Sun Apr 6th, 2025 at 11:59pm PST</span>
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 We'll be adopting a reflective process as part of all work done in DGL 104. With each day's class, all homework, and each assignment you'll be asked to record goals, strategies and process, then reflect on successes and failures after completion. In the latter half of the course (after reading break) will formalize this as an assignment, which you will work on in collaboration with your community code project.
@@ -70,7 +70,7 @@ We'll be adopting a reflective process as part of all work done in DGL 104. With
 - You can record your responses in any modality you wish (written or otherwise recorded) as long as at least a link can be posted to a GitHub repo. 
 
 ---
-## COMMUNITY CODE PROJECT <!-- {docsify-ignore} -->
+## CODING PROJECT <!-- {docsify-ignore} -->
 ### OBJECTIVE <!-- {docsify-ignore} -->
 To engage good coding practices in support of a specific open source development community.
 
