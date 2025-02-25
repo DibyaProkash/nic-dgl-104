@@ -5,9 +5,9 @@
 >
 > Modified by: Dibya Prokash Sarkar
 
-Now that we've gotten through the first half of the semester we'll shift gears a bit. To date, we have spent time with foundational ideas about good coding practice, including topics such as documentation, code review, refactoring, debugging and testing, which we have explored through weekly required and recommended work, the Programming Practice Article assignment and the MIT App Inventor assignment. The concepts we've explored and the work we've done serve as a foundation for the rest of the term, where we will explore functional requirements, design patterns, architectures and programming paradigms. In the coming week we'll commence work on the Research and Reflection Journal assignment and the Community Code assignment, which will draw on those foundational concepts covered in the first half of the term, and on new knowledge generated in the second half of the term.
+Now that we've gotten through the first half of the semester we'll shift gears a bit. To date, we have spent time with foundational ideas about good coding practice, including topics such as documentation, code review, refactoring, debugging and testing, which we have explored through weekly required and recommended work, the Programming Practice Article assignment and the MIT App Inventor assignment. The concepts we've explored and the work we've done serve as a foundation for the rest of the term, where we will explore functional requirements, design patterns, architectures and programming paradigms. In the coming week we'll commence work on the Research and Reflection Journal assignment and the Application Development Coding assignment, which will draw on those foundational concepts covered in the first half of the term, and on new knowledge generated in the second half of the term.
 
-Most critical to this is a shift to the type of coding work that we'll be doing. In the first part of the semester we focused on MIT App Inventor to ensure a common experience and so that we could easily and rapidly develop mobile apps. While we will continue to use `AI2` as a tool to demonstrate some key architectural ideas, most of your coding work will now be centred on a particular language of your choice. The work you do with this language will be drawn from our conceptual topics, and will be embedded in your Research and Reflection and Community Code assignments. 
+Most critical to this is a shift to the type of coding work that we'll be doing. In the first part of the semester we focused on MIT App Inventor to ensure a common experience and so that we could easily and rapidly develop mobile apps. While we will continue to use `AI2` as a tool to demonstrate some key architectural ideas, most of your coding work will now be centred on a particular language of your choice. The work you do with this language will be drawn from our conceptual topics, and will be embedded in your Research and Reflection and Application Development Coding assignments. 
 
 More details on both assignments will be available on Brightspace.
 
@@ -34,7 +34,7 @@ Make sure to visit the description of the Research & Reflection assignment on Br
 
 > The next two activities (each a research and reflection activity) are practice for what you will be doing on a regular basis in your Research and Reflection Journal assignment. The key difference is that for that assignment, I won't always post prompt questions for you to respond to - you must take some initiative yourself in writing your own questions to research and reflect on. 
 
-### [REQUIRED] RESEARCH A NEW LANGUAGE
+### [REQUIRED] RESEARCH A NEW LANGUAGE 
 > I recommend you do this activity in pairs, or in a group of three, if you can arrange it.
 
 To practice the notion of research and reflection you will do a bit of research to learn more about one of the following programming languages: [Processing](https://processing.org/), [Haskell](https://www.haskell.org/), or [Lua](https://www.lua.org/).
@@ -69,8 +69,11 @@ Acceptance criteria for the last of these user stories may include:
 - The contact list clearly displays all existing contacts.
 - The contact list provides a fast scroll (or similar) navigation tool for parsing long contact lists.
 
-### [REQUIRED] CHOOSE A LANGUAGE FOR COMMUNITY CODE
-The Community Code project requires that you spend time writing code in service of an open source community. The code you write need not necessarily be shared with that community, but you should write code with the community in mind. What code you write will be determined by course content, community needs, and your choice of programming language.
+### [REQUIRED] READ THE APP DEVELOPMENT PROJECT DESCRIPTION
+Make sure to visit the description of the Application Development Project assignment on Brightspace. You should read the assignment description and the rubric in detail to familiarize yourself with expectations. After finalizing your group members, start forming the group and please fill out the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1-35hbdRHeLw5NHOnC02vlY2vMeCqDxoB52vW2i52Xn8/edit?usp=sharing) 
+
+### [REQUIRED] CHOOSE A LANGUAGE FOR YOUR APP DEVELOPMENT PROJECT CODE
+The Coding project requires that you spend time writing code in service of an open source community. What code you write will be determined by course content, community needs (among the peers), and your choice of programming language.
 
 For this task you should spend time thinking about what language you might like to work with for the remainder of this course. I recommend that you consider using a language you are already familiar with and preferably one that is closely associated with mobile or web app development. This is also an opportunity to learn more about your chosen language, so think of it as a learning opportunity.
 
@@ -89,7 +92,7 @@ Write a Slack post that includes the following:
 - One specific reason why you’d like to learn more about the language
 
 ### [REQUIRED] STAR GITHUB TOPICS AND REPOSITORIES OF INTEREST
-In preparation for the Community Code project I'd like you to familiarize yourself with some communities of interest on GitHub. Doing so will help to increase the breadth of your knowledge of open source communities, and will give you a good starting point when searching for a community to contribute to.
+In preparation for the Coding project I'd like you to familiarize yourself with some communities of interest on GitHub. Doing so will help to increase the breadth of your knowledge of open source communities, and will give you a good starting point when searching for a community to contribute to.
 
 #### To complete this task (~20 minutes)
 1. Visit the [GitHub Explore tab](https://github.com/explore) on your profile (make sure you are logged in!)
