@@ -16,6 +16,9 @@ The design patterns presented in the following video are a couple of the more we
 
 ## ACTIVITIES
 
+### [RECOMMENDED] RESEARCH ON DESIGN PATTERNS
+Conduct thorough research on design patterns and carefully select four key design patterns that you need to study further. In your R&R journal, write a summary of these design patterns, including their purpose, real-world applications, and concrete examples. You can use links like: [Learning JavaScript Design Patterns](https://jsdp.addyosmani.com/) or [Refactoring Guru](https://refactoring.guru/design-patterns/).
+
 ### [REQUIRED] READ THE APPLICATION DEVELOPMENT CODING PROJECT ASSIGNMENT
 Make sure to visit the description of the assignment on Brightspace. You should read the assignment description and the rubric in detail to familiarize yourself with expectations.
 
