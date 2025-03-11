@@ -69,7 +69,7 @@ Now that you have a potential issue in hand, and you have an understanding of yo
 4. Start working on your issue! This is probably something that will take more than one session, so schedule your time appropriately. Remember to commit often (with descriptive commit titles!) and to keep track of your work in summary in your CONTRIBUTING.md document.  
 
 
-### [REQUIRED] CONTRIBUTE TO PATTERN-LIBRARY
+<!-- ### [REQUIRED] CONTRIBUTE TO PATTERN-LIBRARY
 Work has started on the [pattern-library](https://github.com/nic-dgl104-winter-2024/pattern-library) and some contributions have already been made. There are still quite a few open issues (many good-first-issues!) and lots of opportunity to contribute (including by suggesting new issues).
 
 #### To complete this task (~60 minutes):
@@ -80,7 +80,7 @@ Work has started on the [pattern-library](https://github.com/nic-dgl104-winter-2
 
     > It is possible to have more than one person assigned to specific issues, so feel free to request to be added. However, if I think there are already enough people on an issue, I may request you to find another. 
 
-5. Start working on your issue! This is probably something that will take more than one session, so schedule your time appropriately. Remember to commit often (with descriptive commit titles!) and to keep track of your work (at least in bullet point summary) in your Research and Reflection Journal.
+5. Start working on your issue! This is probably something that will take more than one session, so schedule your time appropriately. Remember to commit often (with descriptive commit titles!) and to keep track of your work (at least in bullet point summary) in your Research and Reflection Journal. -->
 
 ### [REQUIRED] FOLLOW-UP QUESTIONS AND REFLECTIONS
 1. What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge? 
