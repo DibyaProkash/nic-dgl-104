@@ -383,3 +383,7 @@ As the semester gradually approaches its end, I encourage all of you to focus on
 
 ### [REQUIRED] FOLLOW-UP QUESTIONS AND REFLECTIONS
 1.  Determine if your chosen programming language is OOP capable. To what extent does it support OOP? Fully, or partially? Does it support any other paradigms? Wikipedia has a good list of [multi-paradigmatic programming languages](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages).
+
+
+## READING RESOURCES
+1. [The Single Responsibility Principle](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) 
