@@ -20,11 +20,14 @@ Check out the following video for more information:
 
 ## ACTIVITIES
 
-As the last week of the Community Code project I encourage you to spend your time completing any outstanding tasks left on your plate. The deadline for submission is posted as Feb. 28th, but I will accept submissions up until Apr. 3rd, leaving the final few days next week for completion of the Research and Reflection journal.
+<!-- As the last week of the Community Code project I encourage you to spend your time completing any outstanding tasks left on your plate. The deadline for submission is posted as Feb. 28th, but I will accept submissions up until Apr. 3rd, leaving the final few days next week for completion of the Research and Reflection journal.
 
 ### To submit your Community Code assignment:
 The Community Code assignment dropbox on Brightspace asks for a text submission. Please include a link to your Research and Reflection Journal and to **your** fork of your Community Code Part 1 external repository. I will be looking _specifically_ for evidence of work completed for Part 1 and Part 2 (likely in the form of bulleted lists), and reflections on your work for _both_ Parts 1 and 2 (as required by the assignment description).
 
 > **Please ensure that you provide links to _all_ actions that you have taken - including all actions taken on pattern-library contributions! I will not be able to easily search for all your individual contributions, so whatever you submit via this method is what I will grade!**
 
-I will not be reviewing your Research and Reflection Journal as part of this submission, other than the  lists of contributions and the required reflections (see the assignment description for more info).
+I will not be reviewing your Research and Reflection Journal as part of this submission, other than the  lists of contributions and the required reflections (see the assignment description for more info). -->
+
+### [REQUIRED] WORK ON YOUR CODING PROJECT (GROUP)
+As the semester gradually approaches its end, I encourage all of you to focus on your project and Research and Reflection Journal, and ask me any questions related to it during lecture time. Initially, I was considering having dedicated sessions for project discussions, but I believe addressing your questions during class will provide more flexibility and immediate support. 
