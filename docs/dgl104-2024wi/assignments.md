@@ -7,7 +7,7 @@ The following provides a high-level description of assignments to be completed i
 To write a compelling article on a topic of your choice in line with course learning outcomes.
 
 > ### DEADLINE <!-- {docsify-ignore} -->
-> **Week 6 (Week of February 11)**
+> **Week 6 (Week of February 10)**
 >
 > Due date: <span class='badge'> Sun Feb 16th, 2025 at 11:59pm PST</span>
 
@@ -34,7 +34,7 @@ At minimum, your completed article must:
 To demonstrate skill in app development using appropriate design paradigms.
 
 > ### DEADLINE <!-- {docsify-ignore} -->
-> **Week 6 (Week of February 11)**
+> **Week 6 (Week of February 10)**
 >
 > Due date: <span class='badge'> Sun Feb 16th, 2025 at 11:59pm PST</span>
 
@@ -53,7 +53,7 @@ This assignment is contextualized in part by ethical considerations in app devel
 
 ---
 
-## RESEARCH AND REFLECTION JOURNAL <!-- {docsify-ignore} -->
+## RESEARCH AND REFLECTION JOURNAL <!-- {docsify-ignore-all} -->
 ### OBJECTIVE <!-- {docsify-ignore} -->
 To produce a portfolio of research and reflection related to course content.
 
@@ -70,7 +70,7 @@ We'll be adopting a reflective process as part of all work done in DGL 104. With
 - You can record your responses in any modality you wish (written or otherwise recorded) as long as at least a link can be posted to a GitHub repo. 
 
 ---
-## CODING PROJECT <!-- {docsify-ignore} -->
+## CODING PROJECT <!-- {docsify-ignore-all} -->
 ### OBJECTIVE <!-- {docsify-ignore} -->
 To engage in such good coding practices a critical component is that you must write code in order to develop this project along with your peers.
 
