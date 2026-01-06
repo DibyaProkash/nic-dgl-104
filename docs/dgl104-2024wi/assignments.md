@@ -9,7 +9,7 @@ To write a compelling article on a topic of your choice in line with course lear
 > ### DEADLINE <!-- {docsify-ignore} -->
 > **Week 6 (Week of February 10)**
 >
-> Due date: <span class='badge'> Sun Feb 16th, 2025 at 11:59pm PST</span>
+> Due date: <span class='badge'> Sun Feb 16th, 2026 at 11:59pm PST</span>
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 A key method of demonstrating good programming practice is to write an article that expands upon a topic of interest that we cover in the early semester. This article must demonstrate value to a potential future learner in this course, or in a related course. The article must be well-researched and must include references to any sources you use to develop the article. The article must also include code, either as demonstration of good coding practices, or in the form of a tutorial. 
@@ -36,7 +36,7 @@ To demonstrate skill in app development using appropriate design paradigms.
 > ### DEADLINE <!-- {docsify-ignore} -->
 > **Week 6 (Week of February 10)**
 >
-> Due date: <span class='badge'> Sun Feb 16th, 2025 at 11:59pm PST</span>
+> Due date: <span class='badge'> Sun Feb 16th, 2026 at 11:59pm PST</span>
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 Our first steps in the practice of developing apps will begin on day one of class. However, you will not develop apps using native Android or iOS technologies, but rather by use of the [MIT App Inventor](https://appinventor.mit.edu/), an [open source](https://github.com/mit-cml/appinventor-sources) visual and blocks-based programming tool that can be used to develop simple (and even somewhat complex!) apps. 
@@ -58,9 +58,9 @@ This assignment is contextualized in part by ethical considerations in app devel
 To produce a portfolio of research and reflection related to course content.
 
 >### DEADLINE <!-- {docsify-ignore} -->
-> **Week 13 (Week of April 1)**
+> **Week 13 (Week of March 31)**
 >
-> Due date: <span class='badge'> Sun Apr 6th, 2025 at 11:59pm PST</span>
+> Due date: <span class='badge'> Sun Apr 6th, 2026 at 11:59pm PST</span>
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 We'll be adopting a reflective process as part of all work done in DGL 104. With each day's class, all homework, and each assignment you'll be asked to record goals, strategies and process, then reflect on successes and failures after completion. In the latter half of the course (after reading break) will formalize this as an assignment, which you will work on in collaboration with your community code project.
@@ -75,9 +75,9 @@ We'll be adopting a reflective process as part of all work done in DGL 104. With
 To engage in such good coding practices a critical component is that you must write code in order to develop this project along with your peers.
 
 >### DEADLINE <!-- {docsify-ignore} -->
-> **Week 13 (Week of April 1)**
+> **Week 13 (Week of March 31)**
 >
-> Due date: <span class='badge'> Sun Apr 6th, 2025 at 11:59pm PST</span>
+> Due date: <span class='badge'> Sun Apr 6th, 2026 at 11:59pm PST</span>
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 The objective of this project is to design and develop a AI-Powered Smart Task Management System (STMS) that allows you and your users to efficiently create, assign, track, and manage tasks. This project will enable you to apply software design patterns, code reviewing and refactoring techniques, debugging strategies, and CI/CD pipelines while developing a scalable and maintainable application.
@@ -94,13 +94,13 @@ By the end of this project, you will have hands-on experience in **architecting*
 
 
 
-This is a group assignment. A group of 3 members is going to work on a single project idea. You can join the group by filling out the link provided here: [Google Spreadsheet Link](https://docs.google.com/spreadsheets/d/1-35hbdRHeLw5NHOnC02vlY2vMeCqDxoB52vW2i52Xn8/edit?usp=sharing)
+<!-- This is a group assignment. A group of 3 members is going to work on a single project idea. You can join the group by filling out the link provided here: [Google Spreadsheet Link](https://docs.google.com/spreadsheets/d/1-35hbdRHeLw5NHOnC02vlY2vMeCqDxoB52vW2i52Xn8/edit?usp=sharing) -->
 
-This assignment will be developed into two phases. This will allow you to keep working on the project in a manageable manner within a month, ensures gradual progress with two structured phases, and learn practical development with real-world application. Although you must contribute to both parts, you need to ensure that you contribute code to both parts (along with other contributions include improving documentation, issue management and triaging, bug reporting, site development, etc.).
+<!-- This assignment will be developed into two phases. This will allow you to keep working on the project in a manageable manner within a month, ensures gradual progress with two structured phases, and learn practical development with real-world application. Although you must contribute to both parts, you need to ensure that you contribute code to both parts (along with other contributions include improving documentation, issue management and triaging, bug reporting, site development, etc.). -->
 
 ### SUGGESTIONS AND STRATEGIES <!-- {docsify-ignore} -->
 - Notice that I've been specific (in *italics*) in each example above in terms of how you might *write code* in your contribution. **It is a requirement that you write code** for this assignment; however, it is *not* a requirement that you share your code with anyone other than me. In other words, you should be able to justify how the code you write *could* help your community, but you need not share it publicly, if you're not comfortable doing so.
-- Contributions for this assignment must be substantial and weekly engagement is expected. This assignment runs from week 8 all the way to week 14 and I expect that you will continue to work on this assignment outside of class time as homework. In total, you should be able to account for on the order of 20 or so hours over the course the semester devoted to this assignment. 
+- Contributions for this assignment must be substantial and weekly engagement is expected. This assignment runs from week 8 all the way to week 13 and I expect that you will continue to work on this assignment outside of class time as homework. In total, you should be able to account for on the order of 20 or so hours over the course the semester devoted to this assignment. 
 - Create your GitHub repository early and use the repository README.md file to track progress. Keep careful notes on your progress, as this will help you in self-evaluations!
 
 - Clearly articulating for yourself what you think the goals of your chosen community are can help to keep your code project on track.
