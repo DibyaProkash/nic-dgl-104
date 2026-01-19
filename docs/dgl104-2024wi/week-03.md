@@ -1,4 +1,4 @@
-# WEEK 3 (WEEK OF JANUARY 21)
+# WEEK 3 (WEEK OF JANUARY 20)
 ## LECTURE - REFACTORING
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**
@@ -20,7 +20,7 @@ The following video builds on some of these ideas, but I do recommend you also t
 
 > The source to the YouTube video: [YouTube Video](https://www.youtube.com/watch?v=iA5cFchPu0I&ab_channel=AshleyBlacquiere)
 > 
-> The lecture notes for today's lecture can be found here: [The lecture notes on refactoring](https://mycourses.nic.bc.ca/d2l/le/lessons/41796/topics/739589)
+<!-- > The lecture notes for today's lecture can be found here: [The lecture notes on refactoring](https://mycourses.nic.bc.ca/d2l/le/lessons/41796/topics/739589) -->
 
 ## ACTIVITIES
 
@@ -29,8 +29,8 @@ The following video builds on some of these ideas, but I do recommend you also t
 
 Your task for this activity is to refactor a portion of the Map It code. To this end, I have provided a [repository in our organization](https://github.com/nic-dgl104-winter-2025/guide-mapit-refactor) that includes two versions of the completed Map It code, and a short walkthrough of some refactoring techniques you might consider as you work through this activity. 
 
-### [REQUIRED] POST PROGRAMMING PRACTICE ARTICLE SUMMARY ON SLACK
-You now have about three weeks to complete your Programming Practice article. By this time, you should definitely have an idea of the topic that you would like to write about. For this activity, please post a brief summary on our DGL 104 Slack channel describing your article. You can use the following as a template:
+### [REQUIRED] POST PROGRAMMING PRACTICE ARTICLE SUMMARY ON MATTERMOST
+You now have about three weeks to complete your Programming Practice article. By this time, you should definitely have an idea of the topic that you would like to write about. For this activity, please post a brief summary on our DGL 104 Mattermost channel describing your article. You can use the following as a template:
 
 > For the Programming Practice article assignment I have chosen ___________ as a topic. I intend to write specifically about... and to provide code examples that demonstrate... At the end of the article I hope that my reader better understands...
 
@@ -41,7 +41,7 @@ I know that some of you have already started the task of outlining. Some of you 
 
 If you need help with this you can reach out to me, or ask on Slack. The NIC Library also provides many [excellent resources](https://library.nic.bc.ca/writingsupport) to support your writing activities.
 
-### [REQUIRED] POST `AI2` PROJECT IDEA ON SLACK
+### [REQUIRED] POST `AI2` PROJECT IDEA ON MATTERMOST
 You now have about three weeks to complete your `AI2` project. By this time, you should have at least an idea of the type of app you'd like to build. In order to ensure that you have a productive idea that isn't out of scope I'd like you to post a brief description on Slack. You can use the following as a template:
 
 > For the `AI2` project I'd like to build an app that does... Some features of my app include... The audience for my app is...
