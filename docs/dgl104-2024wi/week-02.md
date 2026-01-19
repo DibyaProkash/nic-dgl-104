@@ -54,7 +54,7 @@ Last week you completed the [Space Invaders tutorial](http://appinventor.mit.edu
 However, there is a catch! For this second tutorial you will push your code to a repository on our GitHub organization and you will do the following:
 1. Write some project-level documentation that describes the project; 
 2. Participate in a brief code review with a peer; and
-3. Submit your works in the Github repository. The link of the Github repo for this task: [GitHub Repo](https://classroom.github.com/a/HRSUtpAL)
+3. Submit your works in the Github repository. The link of the Github repo for this task: [GitHub Repo](https://classroom.github.com/a/32YS1ypl)
 
 The advantage to working on a defined project for these tasks is that you don't have to think too creatively when it comes to the project documentation. That doesn't mean you can just copy and paste content - write in your own words, or provide appropriate references if you use an external source - but it should be an easier process. 
 
