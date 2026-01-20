@@ -10,6 +10,8 @@ To write a compelling article on a topic of your choice in line with course lear
 > **Week 6 (Week of February 10)**
 >
 > Due date: <span class='badge'> Mon Feb 16th, 2026 at 11:59pm PST</span>
+>
+> You can find a detailed guideline here with some examples: [Github Repository](https://github.com/nic-dgl104-winter-2026/guide-programming-practice-article)
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 A key method of demonstrating good programming practice is to write an article that expands upon a topic of interest that we cover in the early semester. This article must demonstrate value to a potential future learner in this course, or in a related course. The article must be well-researched and must include references to any sources you use to develop the article. The article must also include code, either as demonstration of good coding practices, or in the form of a tutorial. 
@@ -37,6 +39,8 @@ To demonstrate skill in app development using appropriate design paradigms.
 > **Week 6 (Week of February 10)**
 >
 > Due date: <span class='badge'> Mon Feb 16th, 2026 at 11:59pm PST</span>
+>
+> You can find a detailed guideline here with some examples: [Github Repository](https://github.com/nic-dgl104-winter-2026/guide-ai2-repo-management)
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 Our first steps in the practice of developing apps will begin on day one of class. However, you will not develop apps using native Android or iOS technologies, but rather by use of the [MIT App Inventor](https://appinventor.mit.edu/), an [open source](https://github.com/mit-cml/appinventor-sources) visual and blocks-based programming tool that can be used to develop simple (and even somewhat complex!) apps. 
