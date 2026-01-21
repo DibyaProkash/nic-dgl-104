@@ -39,19 +39,19 @@ Please write your Mattermost summary in complete sentences. Remember that your m
 ### [RECOMMENDED] OUTLINE YOUR PROGRAMMING PRACTICE ARTICLE
 I know that some of you have already started the task of outlining. Some of you may have started writing already as well. I do encourage everyone to write a brief outline to help direct your efforts. An outline can be as simple as a bulleted list of headings for your article, with sub-bullets describing some of the main ideas you'd like to write about. 
 
-If you need help with this you can reach out to me, or ask on Slack. The NIC Library also provides many [excellent resources](https://library.nic.bc.ca/writingsupport) to support your writing activities.
+If you need help with this you can reach out to me, or ask on Mattermost. The NIC Library also provides many [excellent resources](https://library.nic.bc.ca/writingsupport) to support your writing activities.
 
 ### [REQUIRED] POST `AI2` PROJECT IDEA ON MATTERMOST
-You now have about three weeks to complete your `AI2` project. By this time, you should have at least an idea of the type of app you'd like to build. In order to ensure that you have a productive idea that isn't out of scope I'd like you to post a brief description on Slack. You can use the following as a template:
+You now have about three weeks to complete your `AI2` project. By this time, you should have at least an idea of the type of app you'd like to build. In order to ensure that you have a productive idea that isn't out of scope I'd like you to post a brief description on Mattermost. You can use the following as a template:
 
 > For the `AI2` project I'd like to build an app that does... Some features of my app include... The audience for my app is...
 
-Please write your Slack summary in complete sentences. Do your best to be complete in your description - identifying specific `AI2` components you'd like to use for your major features is a good strategy to help you achieve this. Additionally, feel free to comment and provide feedback on other students' ideas.
+Please write your Mattermost summary in complete sentences. Do your best to be complete in your description - identifying specific `AI2` components you'd like to use for your major features is a good strategy to help you achieve this. Additionally, feel free to comment and provide feedback on other students' ideas.
 
 ### [RECOMMENDED] OUTLINE YOUR `AI2` PROJECT
 The outline for your `AI2` project isn't as formal as the outline for your Programming Practice article, but is equally valuable. There are many potential strategies you can take to do some "outlining", including creating a bullet point list, or a mind map, or developing user stories. No matter which approach you choose, you'll find benefit in carefully considering your features and the components that you would like to use.
 
-If you need help with this you can reach out to me, or you can ask on Slack. 
+If you need help with this you can reach out to me, or you can ask on Mattermost. 
 
 ### [RECOMMENDED] FOLLOW-UP QUESTIONS AND REFLECTIONS
 1. How has refactoring helped you in past projects?
