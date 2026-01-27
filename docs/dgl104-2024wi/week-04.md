@@ -46,7 +46,7 @@ Or feel free to take an alternative approach. Your draft can take many forms: It
 
 If you need help with this you can reach out to me, or ask on Slack. The NIC Library also provides many [excellent resources](https://library.nic.bc.ca/writingsupport) to support your writing activities.
 
-### [RECOMMENDED] BUILD AN MVP OF YOUR `AI2` PROJECT
+### [REQUIRED] BUILD AN MVP OF YOUR `AI2` PROJECT
 With two weeks remaining, and given that you've built up some `AI2` experience, now would be a good time to put together a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) for your intended `AI2` project.
 
 Once you have an MVP in-hand, the next best step is to test it out with a friend. If possible, build your MVP, install it on your device and share it with anyone and everyone you can. The more eyes and reactions you get on your MVP, the better your final product will be. Keep notes of what your testers have to say - and what they don't say! You can learn just as much from watching reactions as you can from listening to feedback.
