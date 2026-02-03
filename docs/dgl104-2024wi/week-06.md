@@ -3,8 +3,8 @@
 <!-- > # What’s Happening This Week -->
 > # Important Reminders
 > ### Course Assignment Submissions: <!-- {docsify-ignore} -->
-> * [Programming Practice Article](https://mycourses.nic.bc.ca/d2l/le/lessons/41796/topics/733445) assignment <span class='badge'> Sun Feb 16th, 2025 at 11:59pm PST</span>
-> * [App Inventor Project](https://mycourses.nic.bc.ca/d2l/le/lessons/41796/topics/733446) assignment <span class='badge'> Sun Feb 16th, 2025 at 11:59pm PST</span>
+> * [Programming Practice Article](https://mycourses.nic.bc.ca/d2l/le/lessons/41796/topics/733445) assignment <span class='badge'> Mon Feb 16th, 2026 at 11:59pm PDT</span>
+> * [App Inventor Project](https://mycourses.nic.bc.ca/d2l/le/lessons/41796/topics/733446) assignment <span class='badge'> Mon Feb 16th, 2026 at 11:59pm PDT</span>
 <!-- > -->
 <!-- > ### Required Reading
 > * [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/) -->
