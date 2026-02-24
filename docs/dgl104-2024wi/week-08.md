@@ -29,10 +29,10 @@ Not all features are equally suited to be described by functional user requireme
 
 ## ACTIVITIES
 
-<!-- ### [RECOMMENDED] READ THE RESEARCH & REFLECTION ASSIGNMENT
+### [RECOMMENDED] READ THE RESEARCH & REFLECTION ASSIGNMENT
 Make sure to visit the description of the Research & Reflection assignment on Brightspace. You should read the assignment description and the rubric in detail to familiarize yourself with expectations.
 
-> The next two activities (each a research and reflection activity) are practice for what you will be doing on a regular basis in your Research and Reflection Journal assignment. The key difference is that for that assignment, I won't always post prompt questions for you to respond to - you must take some initiative yourself in writing your own questions to research and reflect on.  -->
+> The next two activities (each a research and reflection activity) are practice for what you will be doing on a regular basis in your Research and Reflection Journal assignment. The key difference is that for that assignment, I won't always post prompt questions for you to respond to - you must take some initiative yourself in writing your own questions to research and reflect on. 
 
 ### [REQUIRED] RESEARCH A NEW LANGUAGE 
 > I recommend you do this activity in pairs, or in a group of three, if you can arrange it.
@@ -50,7 +50,7 @@ To practice the notion of research and reflection you will do a bit of research 
 
 I don't expect your answers to the questions above to be *complete* (i.e. when you tell me what the language is for, I don't expect you to tell me all of its uses), but you should be *specific*. In other words, if you tell me that Processing is used for database management (protip: it isn't) then you should show some evidence by pointing to a project website or repository. Similarly for the who, the what the the why questions.
 
-### [RECOMMENDED] REFLECT ON Mattermost NEW LANGUAGE RESPONSES
+### [RECOMMENDED] REFLECT ON MATTERMOST NEW LANGUAGE RESPONSES
 In theory, by the end of the week we should have a couple dozen or more responses on Mattermost to the required activity above. Take some time to read them, then write a short reflection on Mattermost stating what you've learned from the process. When writing your reflection consider both the research you've done and what you've learned in reading other posts. Your reflection need not be more than a paragraph, and can be a stand-alone post, or a reply to another post.
 
 ### [REQUIRED] WRITE A USER STORY
