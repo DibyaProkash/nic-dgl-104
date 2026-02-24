@@ -69,10 +69,10 @@ Acceptance criteria for the last of these user stories may include:
 - The contact list clearly displays all existing contacts.
 - The contact list provides a fast scroll (or similar) navigation tool for parsing long contact lists.
 
-### [REQUIRED] READ THE APP DEVELOPMENT PROJECT DESCRIPTION
-Make sure to visit the description of the Application Development Project assignment on Brightspace. You should read the assignment description and the rubric in detail to familiarize yourself with expectations. After finalizing your group members, start forming the group and please fill out the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1-35hbdRHeLw5NHOnC02vlY2vMeCqDxoB52vW2i52Xn8/edit?usp=sharing) 
+<!-- ### [REQUIRED] READ THE APP DEVELOPMENT PROJECT DESCRIPTION
+Make sure to visit the description of the Application Development Project assignment on Brightspace. You should read the assignment description and the rubric in detail to familiarize yourself with expectations. After finalizing your group members, start forming the group and please fill out the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1-35hbdRHeLw5NHOnC02vlY2vMeCqDxoB52vW2i52Xn8/edit?usp=sharing)  -->
 
-### [REQUIRED] CHOOSE A LANGUAGE FOR YOUR APP DEVELOPMENT PROJECT CODE
+<!-- ### [REQUIRED] CHOOSE A LANGUAGE FOR YOUR APP DEVELOPMENT PROJECT CODE
 The Coding project requires that you spend time writing code in service of an open source community. What code you write will be determined by course content, community needs (among the peers), and your choice of programming language.
 
 For this task you should spend time thinking about what language you might like to work with for the remainder of this course. I recommend that you consider using a language you are already familiar with and preferably one that is closely associated with mobile or web app development. This is also an opportunity to learn more about your chosen language, so think of it as a learning opportunity.
@@ -89,7 +89,7 @@ For this task you should spend time thinking about what language you might like 
 Write a Slack post that includes the following:
 - The language you’d like to focus on (see list above for suggestions)
 - The amount of experience you have with it (i.e. semesters, years, project - whatever makes to you)
-- One specific reason why you’d like to learn more about the language
+- One specific reason why you’d like to learn more about the language -->
 
 ### [REQUIRED] STAR GITHUB TOPICS AND REPOSITORIES OF INTEREST
 In preparation for the Coding project I'd like you to familiarize yourself with some communities of interest on GitHub. Doing so will help to increase the breadth of your knowledge of open source communities, and will give you a good starting point when searching for a community to contribute to.
