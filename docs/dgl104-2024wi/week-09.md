@@ -35,20 +35,20 @@ GitHub's [Open Source Guides](https://opensource.guide/) site includes a guide t
 
 Write a short summary and reflection in your Research and Reflection Journal that describes what you've learned about open source contributions and the ways in which you'd like to contribute.
 
-<!-- ### [REQUIRED] FIND POTENTIAL PROJECTS TO CONTRIBUTE TO
-This activity requires you to find three potential projects that you might be interested in contributing to. Remember that ["contribution" can mean many things](https://opensource.guide/how-to-contribute/#what-it-means-to-contribute) and doesn't necessarily mean writing complex code. -->
+### [REQUIRED] FIND POTENTIAL PROJECTS TO CONTRIBUTE TO
+This activity requires you to find three potential projects that you might be interested in contributing to. Remember that ["contribution" can mean many things](https://opensource.guide/how-to-contribute/#what-it-means-to-contribute) and doesn't necessarily mean writing complex code.
 
-<!-- #### To complete this task (~60 minutes):
+#### To complete this task (~60 minutes):
 1. Visit one or all three of [Good First Issue](https://goodfirstissue.dev/), [Up for Grabs](https://up-for-grabs.net/#/), and [CodeTriage](https://www.codetriage.com/). You can stick with just one site, or use all three (I recommend spending time with all three). Play around with the search and filter functionality to find projects that interest you and, in particular, you should consider searching or filtering on the **programming language that you chose last week** for the Community Code project.
 2. Identify **three** projects/repositories that you think are interesting and complete a short analysis of each by doing the following:
     1. Open the [checklist](https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute) provided in the ["How to Contribute to Open Source"](https://opensource.guide/how-to-contribute/) guide.
     2. Go through the checklist for each of the three projects you identified and check the boxes when appropriate. Take a screenshot when you have completed all checklist questions (you may need to zoom out your browser window). You also need to reset the checkmarks/page for each of the three projects.
-    3. Write a short summary about each project and what you've discovered during your analysis in your Research and Reflection journal. Make sure to write down the url and point out any very interesting discoveries. -->
+    3. Write a short summary about each project and what you've discovered during your analysis in your Research and Reflection journal. Make sure to write down the url and point out any very interesting discoveries.
 
-<!-- ### [RECOMMENDED] EXPLORE COMMUNITY CONNECTIONS
+### [RECOMMENDED] EXPLORE COMMUNITY CONNECTIONS
 Most well-known open source projects are supported by well-established communities, typically housed on async messaging platforms like Discord, Slack or Zulip. Even less well-known (but active!) open source projects are likely to have some connections back to other communities (either directly, due to particular tools or languages used, or indirectly through contributor involvement).
 
-Spend some time researching community connections extending out from one or more of the projects identified in the last activity. If you find the community "home" right away (i.e. if it's as obvious as, for example, a Discord server) then spend some time familiarizing yourself with the community. If finding a community is harder, then follow as many relevant links from the repository back to potential communities that you can find (this might include looking carefully at maintainer GitHub profiles, websites and socials). Write a summary of your discoveries in your Research and Reflection Journal. -->
+Spend some time researching community connections extending out from one or more of the projects identified in the last activity. If you find the community "home" right away (i.e. if it's as obvious as, for example, a Discord server) then spend some time familiarizing yourself with the community. If finding a community is harder, then follow as many relevant links from the repository back to potential communities that you can find (this might include looking carefully at maintainer GitHub profiles, websites and socials). Write a summary of your discoveries in your Research and Reflection Journal.
 
 ### [REQUIRED] WORK ON THE APPLICATION DEVELOPMENT CODING PROJECT ASSIGNMENT (GROUP)
 
