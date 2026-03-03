@@ -70,8 +70,8 @@ For this activity you will revisit the projects discovered in the last activity 
 
 4. For each identified issue write a summary of the issue in your Research and Reflection Journal. Your summary should include a url, a brief description of the issue, and an explanation of how you think you can contribute (or, at least where you would start). Make sure to summarize any discussion that might have already occurred between community members in the issue.  -->
 
-### [REQUIRED] WRITE A SUMMARY ON SLACK
-Share a summary on Slack of **one** of the issues identified in the "Identify Issues to Support" activity. Make sure you include a link back to the issue/repository, briefly describe the project/repository, and clearly explain why you think this issue is potentially a good one for you to contribute to. 
+### [REQUIRED] WRITE A SUMMARY ON MATTERMOST
+Share a summary on Mattermost of **one** of the issues identified in the "Identify Issues to Support" activity. Make sure you include a link back to the issue/repository, briefly describe the project/repository, and clearly explain why you think this issue is potentially a good one for you to contribute to. 
 
 ### [RECOMMENDED] FOLLOW-UP QUESTIONS AND REFLECTIONS
 <!-- 1. What is the most surprising thing that you've learned about open source development and/or open source communities during your research this week?
