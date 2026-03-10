@@ -11,7 +11,7 @@ The use of the MV\* (i.e. Model View ____) patterns are commonly used across web
 <!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/ZkeX4NLkhms"></iframe></div> -->
 
 <!-- [MV*](dgl104-2024wi/text-book/ch8) -->
-[GitHub Link to the Book](https://github.com/nic-dgl104-winter-2022/class-textbook/tree/main/ch8)
+**[GitHub Link to the Book](https://github.com/DibyaSarkar/NIC-DGL104-textbook/tree/main/ch8)**
 
 ### MVC & MVVM
 It's worth noting that since MV* patterns are architectural in nature (i.e. encompass the structure of an entire software project) their use is tightly tied to specific frameworks. For example, [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) (commonly used for web app development) is an MVC framework. Native development for both iOS and Android apps has moved to primarily Model View ViewModel (MVVM) with their, respectively, declarative [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [JetPack Compose](https://developer.android.com/jetpack/compose) frameworks, though both previously subscribed to Model View Controller (MVC) most notably in the (now deprecated) [iOS Storyboard UI](https://developer.apple.com/library/archive/documentation/General/Conceptual/Devpedia-CocoaApp/Storyboard.html) development workflow.
@@ -31,6 +31,10 @@ I've created the following video walkthroughs to provide you with additional sup
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/SSEPfJiqxjs"></iframe></div> -->
 
+**[GitHub Link to the Book - MVC](https://github.com/DibyaSarkar/NIC-DGL104-textbook/tree/main/ch8/MVC)**
+
+
+**[GitHub Link to the Book - MVVM](https://github.com/DibyaSarkar/NIC-DGL104-textbook/tree/main/ch8/MVVM)**
 
 ## ACTIVITIES
 
