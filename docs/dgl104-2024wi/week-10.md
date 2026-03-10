@@ -10,7 +10,7 @@ The use of the MV\* (i.e. Model View ____) patterns are commonly used across web
 
 <!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/ZkeX4NLkhms"></iframe></div> -->
 
-[MV*](dgl104-2024wi/text-book/ch8)
+<!-- [MV*](dgl104-2024wi/text-book/ch8) -->
 [GitHub Link to the Book](https://github.com/nic-dgl104-winter-2022/class-textbook/tree/main/ch8)
 
 ### MVC & MVVM
