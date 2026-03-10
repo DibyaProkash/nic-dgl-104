@@ -20,6 +20,13 @@ It's worth noting that since MV* patterns are architectural in nature (i.e. enco
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/o1M5hFLjcXw"></iframe></div> -->
 
+**[GitHub Link to the Book - MVC](https://github.com/DibyaSarkar/NIC-DGL104-textbook/tree/main/ch8/MVC)**
+
+
+**[GitHub Link to the Book - MVVM](https://github.com/DibyaSarkar/NIC-DGL104-textbook/tree/main/ch8/MVVM)**
+
+**[GitHub Link to the Book - MVP](https://github.com/DibyaSarkar/NIC-DGL104-textbook/tree/main/ch8/MVP)**
+
 <!-- ### COMMUNITY CODE PROCESSES
 I've created the following video walkthroughs to provide you with additional support in the process of forking repositories, creating branches, finding issues and opening pull requests for contribution to open source projects. I use Part 2 of the Community Code project (with our class [pattern-library](https://github.com/nic-dgl104-winter-2024/pattern-library)) as a direct example of how to do this, but you can apply these same techniques to your work on Part 1 of the Community Code project as well. -->
 
@@ -30,13 +37,6 @@ I've created the following video walkthroughs to provide you with additional sup
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/2Up54ybEWIY"></iframe></div>
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/SSEPfJiqxjs"></iframe></div> -->
-
-**[GitHub Link to the Book - MVC](https://github.com/DibyaSarkar/NIC-DGL104-textbook/tree/main/ch8/MVC)**
-
-
-**[GitHub Link to the Book - MVVM](https://github.com/DibyaSarkar/NIC-DGL104-textbook/tree/main/ch8/MVVM)**
-
-**[GitHub Link to the Book - MVP](https://github.com/DibyaSarkar/NIC-DGL104-textbook/tree/main/ch8/MVP)**
 
 ## ACTIVITIES
 
