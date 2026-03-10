@@ -8,25 +8,27 @@
 ### MV* OVERVIEW
 The use of the MV\* (i.e. Model View ____) patterns are commonly used across web and mobile app development. MV\* patterns are typically thought of as  _architectural_ patterns, distinct from what are typically understood as _design_ patterns (such as Singleton and Observer) introduced in week 9. To contrast the two: design patterns are most often thought of as solutions to common and well-defined OOP-based problems; whereas MV* patterns have more to do with the overall _structure_ of an app across the entire project. The notion of _structure_, as it relates to MV* patterns, is related to, but is often thought of as distinct from, the [family of structural design patterns](https://en.wikipedia.org/wiki/Design_Patterns) (i.e. especially [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern)).
 
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/ZkeX4NLkhms"></iframe></div>
+<!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/ZkeX4NLkhms"></iframe></div> -->
+
+[MV*](dgl104-2024wi/text-book/ch8)
 
 ### MVC & MVVM
 It's worth noting that since MV* patterns are architectural in nature (i.e. encompass the structure of an entire software project) their use is tightly tied to specific frameworks. For example, [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) (commonly used for web app development) is an MVC framework. Native development for both iOS and Android apps has moved to primarily Model View ViewModel (MVVM) with their, respectively, declarative [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [JetPack Compose](https://developer.android.com/jetpack/compose) frameworks, though both previously subscribed to Model View Controller (MVC) most notably in the (now deprecated) [iOS Storyboard UI](https://developer.apple.com/library/archive/documentation/General/Conceptual/Devpedia-CocoaApp/Storyboard.html) development workflow.
 
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/PkvOL-hWnGs"></iframe></div>
+<!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/PkvOL-hWnGs"></iframe></div>
 
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/o1M5hFLjcXw"></iframe></div>
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/o1M5hFLjcXw"></iframe></div> -->
 
-### COMMUNITY CODE PROCESSES
-I've created the following video walkthroughs to provide you with additional support in the process of forking repositories, creating branches, finding issues and opening pull requests for contribution to open source projects. I use Part 2 of the Community Code project (with our class [pattern-library](https://github.com/nic-dgl104-winter-2024/pattern-library)) as a direct example of how to do this, but you can apply these same techniques to your work on Part 1 of the Community Code project as well.
+<!-- ### COMMUNITY CODE PROCESSES
+I've created the following video walkthroughs to provide you with additional support in the process of forking repositories, creating branches, finding issues and opening pull requests for contribution to open source projects. I use Part 2 of the Community Code project (with our class [pattern-library](https://github.com/nic-dgl104-winter-2024/pattern-library)) as a direct example of how to do this, but you can apply these same techniques to your work on Part 1 of the Community Code project as well. -->
 
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/ZlysOUJs2_I"></iframe></div>
+<!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/ZlysOUJs2_I"></iframe></div>
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/cq7qi2ehEKE"></iframe></div>
 
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/2Up54ybEWIY"></iframe></div>
 
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/SSEPfJiqxjs"></iframe></div>
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/SSEPfJiqxjs"></iframe></div> -->
 
 
 ## ACTIVITIES
