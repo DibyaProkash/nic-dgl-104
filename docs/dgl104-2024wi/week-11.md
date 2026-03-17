@@ -13,9 +13,9 @@ The following reading material outlines some key considerations in object-orient
 ### OOP
 <!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/jzP2sw3I1nc"></iframe></div> -->
 
-<!-- <iframe src="../assets/pdfs/week_11-oop-lecture-dgl104.pdf" width="100%" height="600px"></iframe> -->
+<iframe src="https://mycourses.nic.bc.ca/d2l/le/lessons/50267/topics/882903" width="100%" height="600px"></iframe>
 
-<a href="../assets/pdfs/week_11-oop-lecture-dgl104.pdf" target="_blank">Open the PDF in a new tab</a>
+<a href="https://mycourses.nic.bc.ca/d2l/le/lessons/50267/topics/882903" target="_blank">Open the PDF in a new tab</a>
 
 
 #### OOP Concept - Encapsulation
