@@ -13,7 +13,7 @@ The following reading material outlines some key considerations in object-orient
 ### OOP
 <!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/jzP2sw3I1nc"></iframe></div> -->
 
-<iframe src="/pdfs/week_11-oop-lecture-dgl104.pdf" width="100%" height="600px"></iframe>
+<iframe src="../assets/pdfs/week_11-oop-lecture-dgl104.pdf" width="100%" height="600px"></iframe>
 
 #### OOP Concept - Encapsulation
 Encapsulation restricts direct access to an object's data and allows controlled access through methods. For example:
