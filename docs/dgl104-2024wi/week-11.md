@@ -379,11 +379,11 @@ By now you should have at least one [pattern-library](https://github.com/nic-dgl
 
 As with your chosen external repository, please move on to a new issue once you have completed any assigned to you. -->
 
-### [REQUIRED] READ THE OOP DOCUMENTATION AND CHECK THE VIDEO CAREFULLY
-Write a summary on how you envision applying Object-Oriented Programming (OOP) in your group programming assignment, including relevant examples.
+### [REQUIRED] READ THE OOP DOCUMENTATION
+Write a summary on how you envision applying Object-Oriented Programming (OOP) in your programming assignment, including relevant examples.
 
-### [REQUIRED] WORK ON YOUR CODING PROJECT (GROUP)
-As the semester gradually approaches its end, I encourage all of you to focus on your project and ask any questions related to it during lecture time. Initially, I was considering having dedicated sessions for project discussions, but I believe addressing your questions during class will provide more flexibility and immediate support.
+<!-- ### [REQUIRED] WORK ON YOUR CODING PROJECT (GROUP)
+As the semester gradually approaches its end, I encourage all of you to focus on your project and ask any questions related to it during lecture time. Initially, I was considering having dedicated sessions for project discussions, but I believe addressing your questions during class will provide more flexibility and immediate support. -->
 
 ### [REQUIRED] FOLLOW-UP QUESTIONS AND REFLECTIONS
 1.  Determine if your chosen programming language is OOP capable. To what extent does it support OOP? Fully, or partially? Does it support any other paradigms? Wikipedia has a good list of [multi-paradigmatic programming languages](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages).
