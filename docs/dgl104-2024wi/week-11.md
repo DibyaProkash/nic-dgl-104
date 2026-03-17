@@ -1,5 +1,5 @@
-# WEEK 11 (WEEK OF MARCH 18)
-## LECTURE - OBJECT ORIENTED PROGRAMMING
+# WEEK 11 (WEEK OF MARCH 17)
+## LECTURE - OBJECT ORIENTED PROGRAMMING (OOP)
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**
 >
@@ -7,11 +7,13 @@
 
 The following videos outline some key considerations in object-oriented programming (OOP). Many of the ideas in the first video should be familiar to you, while the second video will likely present some new ideas. Primarily, we examine these ideas in _contrast_ to functional programming paradigm, which is our final topic of the semester, presented in week 12.
 
-### OOP PART 1
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/hdVYcOgNKfc"></iframe></div>
+<!-- ### OOP PART 1 -->
+<!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/hdVYcOgNKfc"></iframe></div> -->
 
-### OOP PART 2
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/jzP2sw3I1nc"></iframe></div>
+### OOP
+<!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/jzP2sw3I1nc"></iframe></div> -->
+
+<iframe src="/pdfs/week_11-oop-lecture-dgl104.pdf" width="100%" height="600px"></iframe>
 
 #### OOP Concept - Encapsulation
 Encapsulation restricts direct access to an object's data and allows controlled access through methods. For example:
