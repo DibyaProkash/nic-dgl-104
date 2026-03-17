@@ -5,7 +5,7 @@
 >
 > Modified by: Dibya Prokash Sarkar
 
-The following videos outline some key considerations in object-oriented programming (OOP). Many of the ideas in the first video should be familiar to you, while the second video will likely present some new ideas. Primarily, we examine these ideas in _contrast_ to functional programming paradigm, which is our final topic of the semester, presented in week 12.
+The following reading material outlines some key considerations in object-oriented programming (OOP). Many of the ideas should be familiar to you, and some will likely present some new ideas. Primarily, we examine these ideas in _contrast_ to functional programming paradigdm, which is our final topic of the semester, presented in week 12.
 
 <!-- ### OOP PART 1 -->
 <!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/hdVYcOgNKfc"></iframe></div> -->
