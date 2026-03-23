@@ -1,7 +1,8 @@
-# WEEK 12 (WEEK OF MARCH 25)
+# WEEK 12 (WEEK OF MARCH 24)
 > # Important Reminders
 > ### Course Assignment Submissions: <!-- {docsify-ignore} -->
-> * [Community Code Project](https://mycourses.nic.bc.ca/d2l/le/lessons/41796/topics/733444) assignment <span class='badge'> Sun Mar 30th, 2025 at 11:59pm PST</span>
+> * [Research and Reflection Journal](https://mycourses.nic.bc.ca/d2l/le/lessons/50267/topics/879182) assignment <span class='badge'> Mon Apr 6th, 2026 at 11:59pm PST</span>
+> * [Application Development Coding Project](https://mycourses.nic.bc.ca/d2l/le/lessons/50267/topics/880553) assignment <span class='badge'> Tue Apr 7th, 2026 at 11:59pm PST</span>
 
 ## LECTURE - FUNCTIONAL PROGRAMMING
 
@@ -29,5 +30,5 @@ The Community Code assignment dropbox on Brightspace asks for a text submission.
 
 I will not be reviewing your Research and Reflection Journal as part of this submission, other than the  lists of contributions and the required reflections (see the assignment description for more info). -->
 
-### [REQUIRED] WORK ON YOUR CODING PROJECT (GROUP)
+### [REQUIRED] WORK ON YOUR CODING PROJECT (INDIVIDUAL)
 As the semester gradually approaches its end, I encourage all of you to focus on your project and Research and Reflection Journal, and ask me any questions related to it during lecture time. Initially, I was considering having dedicated sessions for project discussions, but I believe addressing your questions during class will provide more flexibility and immediate support. 
