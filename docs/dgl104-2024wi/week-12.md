@@ -15,9 +15,12 @@ If you haven't caught on yet - I love functional programming! :D  And these days
 
 In this class, our interest is less in the use of functional languages directly, and more in the use of functional _tools_, by which I mean specific types of _functional-style_ APIs (typically related to collections, like arrays, lists, etc.) that offer methods such as `map`, `filter`, and `reduce`. Most modern program languages (including Java, Kotlin, Swift, JavaScript and a whole host more) offer API methods like these to increase code efficiency relating to collection-based computations and programs. I strongly encourage you to consider adopting these types of methods where appropriate, rather than using imperative-style loops, to make your code more concise and beautiful!
 
-Check out the following video for more information:
+Check out the following lecture slides for more information:
 
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/_uXZ8HvHH7o"></iframe></div>
+<!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/_uXZ8HvHH7o"></iframe></div> -->
+
+[Functional Paradigm](https://mycourses.nic.bc.ca/d2l/le/lessons/50267/topics/883814)
+
 
 ## ACTIVITIES
 
