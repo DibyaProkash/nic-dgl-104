@@ -7,16 +7,75 @@
 
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
-> **First class note**: The lecture section of each week's content will typically contains videos (some recorded by Ashley, some sourced from the web) and text to read. CVS students should ideally watch these videos and read the lecture text _before_ class. 
->
-> Many weeks will also include optional content (videos and text). It's not necessary to watch/read these before class. 
 
-### PLATFORM PROGRAMMING
-The title of DGL 104 is "Application Development Foundations" and the course description notes that you will "gain experience in modern development, testing and profiling tools for platform-based applications."
+### WHAT IS A "PLATFORM," REALLY?
 
-It's worth noting that we're not explicitly defining what type of platform you might be programming _to_. Instead, the goal of this course is to build good programming practice _no matter the platform_ and _no matter the programming language_ used. However, not all platforms are built equally, and there are concerns and considerations you'll want to keep in mind.
+The full title of DGL 104 is *Application Development Foundations*, and the official course description promises that you'll "gain experience in modern development, testing, and profiling tools for **platform-based** applications."
 
-<!-- <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/Wu-LdSzGe4U"></iframe></div> -->
+It's worth pausing on that phrase: **platform-based**. The word is doing real work.
+
+Most of the programs you've written so far in your degree have been **general-purpose**: a Python script that prints prime numbers, a C++ program that sorts a list, a Java assignment that calculates statistics. These programs care about *logic*. They don't particularly care about *where* they run.
+
+Platform-based development is different. The **place** your code runs becomes a first-class design concern. A web app lives in the browser, talks to a DOM, and dies when you close the tab. A mobile app lives on a device that can be killed by the OS at any time, has a camera, has GPS, and must respect notification permissions. An edge function lives on someone else's server, runs for milliseconds, and may not even share memory with its previous invocation.
+
+Same logic — say, "count button clicks" — looks completely different on each of these. That's what "platform-based" means.
+
+> **The point of this course** is to build good design and engineering practice that holds up no matter the platform, while also developing your sensitivity to what each platform demands. The skills transfer; the surface details don't.
+
+It's worth saying explicitly: this course does **not** define which specific platform you'll deploy to in your career. Some of you will end up writing iOS apps in Swift. Others will write React websites, or Kotlin Android apps, or backend Go services, or firmware in C. The tools change. The *thinking* we'll practice this term applies to all of them.
+
+
+### WHY YOU LEARN MULTIPLE PLATFORMS
+
+A reasonable question: "If I just want to build mobile apps, why do I need to think about edge functions or web platforms?"
+
+There are four honest reasons:
+
+### Reason 1 — The patterns are universal
+
+Separation of concerns. MVC. Dependency injection. Testability. Coupling and cohesion. These design principles emerged from decades of pain across **every** platform. Once you understand them in one context, you'll recognize the same patterns in iOS development, in Android, in Unity game development, in backend services, even in firmware.
+
+The platforms change. The patterns don't.
+
+### Reason 2 — Most real apps span platforms
+
+Open Spotify on your phone right now. That app has a **mobile** front-end (likely Swift or Kotlin). It talks to **edge** APIs (perhaps on Cloudflare or AWS) that authenticate you. Those APIs talk to a **backend service** (probably Java or Go) that streams audio. There's a **web** version of Spotify too, and a **desktop** Electron app. *Five platforms in one product.*
+
+If your career involves working on any non-trivial software, you will almost certainly have to reason about platforms you don't personally write code for. A mobile dev who can't read a backend API spec is a partial mobile dev. A backend dev who has no idea what a _useState_ hook is will struggle to debug the system holistically.
+
+### Reason 3 — Platforms have tradeoffs you must consciously choose
+
+Should this app be a website or a native iOS app? A Progressive Web App or React Native? An Electron desktop app or native Mac/Windows builds? These aren't trivia questions — they shape **user experience, cost, team size, update speed, and what's even possible**.
+
+Engineers who can articulate these tradeoffs lead projects. Engineers who can't, follow.
+
+### Reason 4 — The job market rewards platform fluency
+
+In 2026, "I only know Android" is a smaller market than "I know Android, and I can also reason about how the backend it talks to works." Every platform you understand at a conceptual level expands the kinds of projects you can usefully contribute to and the conversations you can usefully participate in.
+
+This isn't an argument for being a generalist who knows nothing deeply. It's an argument for having one or two areas of real expertise and enough breadth to understand how those areas connect to everything else.
+
+### THE PLATFORM LANDSCAPE IN 2026
+
+Here's a quick map of the major categories. We'll touch some of these directly this term, others only conceptually.
+
+| Platform | Examples you've used | Common stacks | Hallmark |
+| -------- | -------- | -------- | -------- |
+| Web | Gmail, Figma, Notion, Brightspace | JS/TS, React, Vue, Svelte | URL = installation |
+| Mobile | Instagram, Uber, banking apps | Swift (iOS), Kotlin (Android), React Native, Flutter | Deep hardware access |
+| Desktop | VS Code, Slack, Spotify | Electron, Tauri, native C# / Swift | Long sessions, full filesystem |
+| Edge / serverless | Backend APIs, auth flows | Node, Go, Rust, Python; Cloudflare Workers, AWS Lambda | Scales 0 → ∞ |
+| Embedded / IoT | Smart thermostats, fitness trackers | C, C++, Rust, MicroPython | Constrained resources |
+| AR / VR | Vision Pro, Meta Quest | Swift, Unity, Unreal | New interaction models |
+
+Each row is a different "stage" your code performs on. Each stage has its own conventions, its own audience, and its own physics.
+
+You won't become an expert in any single one of these in a 13-week course. The goal is **fluency** — being able to read code on any of these platforms and recognize the design decisions, tradeoffs, and anti-patterns at play.
+
+### A NOTE ON THIS TERM'S TOOLS
+
+We'll spend a separate slide deck and lecture going through the specific tools we'll use this term — what we picked, why we picked it, and what alternatives exist. The short version: we anchor in **one** platform deeply, use it to ground all the architectural lessons, and reach back out to the broader landscape in our case studies and discussions. The tools may be different — and that's by design. The tooling story has moved on, and we're moving with it.
+
 
 ### MIT APP INVENTOR
 [MIT App Inventor](https://appinventor.mit.edu) (officially, "MIT App Inventor 2", so I'll refer to it as `AI2` from now on) is a web-based mobile app development and block code editing tool that can be used to develop fairly complex mobile apps. `AI2` is intended to help "democratize" the process of development - meaning it puts the tools necessary for app development in reach of the average individual: Many people with no prior coding experience have successfully used `AI2` to create some [pretty amazing apps](https://appinventor.mit.edu/about-us).
@@ -44,6 +103,43 @@ For now, I recommend keeping it simple:
 - Choose a tool that is easy for you to commit to: You can write in a paper journal/notepad, or you can start a Word document or a Google Docs document, or whatever works for you.
 - Keep the format simple: Write down your goals for the day, some tasks, and after you've finished for the day write some thoughts about what you've learned. 
 - Don't forget to include the date (especially if you are using paper!) 
+
+### [REQUIRED] PLATFORM SAFARI — THREE APPS, THREE PLATFORMS
+
+This is a short observational activity to start training your *"platform eye."*
+
+Pick **three apps you use regularly**. Each one must run on a different platform from this list:
+
+- Web (in a browser)
+- Mobile (iOS or Android app)
+- Desktop (installed app on your computer)
+- Edge / serverless (a tool that's mostly an API or AI service you call)
+- Embedded (a smart speaker, watch, or IoT device)
+
+For each of your three apps, write a paragraph in your journal answering:
+
+1. **What is the platform?** Be specific (e.g., "iOS app on iPhone," not just "phone").
+2. **Name one thing the app does well because of its platform.** Something that would be hard, awkward, or impossible on a different platform. Example: "Shazam on mobile can listen through the device microphone in the background — a website could do this only with explicit permission and not while the tab is closed."
+3. **Name one limitation the platform imposes**. Example: "The iOS Spotify app can't freely move downloaded songs to my desktop file system the way the Mac version can."
+
+> **No coding required**. The point is to train your eye before we dive into code. Good developers can look at any app and mentally model what platform it runs on, what that platform enables, and what it limits. That instinct is what the rest of this course builds on.
+
+### [REQUIRED] EXPLORE THE LANDSCAPE — CHOOSE ONE READING
+
+Pick one of the following short pieces. Read it. Add a 2-paragraph response to your journal: what surprised you, what you disagreed with, and one question you'd want to discuss in class.
+
+- Joel Spolsky — The [Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) (short, classic essay) — Why "the platform doesn't matter, just write good code" is a comforting lie. Old but every word still applies.
+- MDN — [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) (reference-style read) — A precise look at one specific platform abstraction. Useful contrast with general-purpose programming.
+- Steve Yegge — [Platforms Rant](https://gist.github.com/chitchcock/1281611) (long, opinionated, very famous) — Yegge's accidentally-public memo on why platforms eat applications. Long and not for the faint of heart, but career-shaping if you let it be.
+
+
+### [RECOMMENDED] FOLLOW-UP QUESTIONS AND REFLECTIONS
+Add these to your journal — even rough answers will help you internalize the week.
+
+1. The same logical idea — "count clicks" — looks completely different across platforms. *Why?* What is each platform forcing the code to handle that the others aren't?
+2. Pick one of the apps from your Platform Safari. Imagine you had to rebuild it from scratch on a *different* platform. What would change? What would stay the same?
+3. The course description says we're learning about "platform-based applications" without specifying *which* platform. Why do you think that's intentional? What's the educator getting at?
+4. What is one thing about platforms or app architecture that you didn't realize this week?
 
 ### [REQUIRED] TALK TO ME APP TUTORIALS PARTS 1 - 4
 The following set of tutorials are quick and easy to complete and introduce the basic uses of `AI2`. You don't need to pass in any work for this activity - you need only complete the tutorials so that you have basic knowledge of the interface before moving on to something more complex.
