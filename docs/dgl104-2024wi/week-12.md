@@ -1,4 +1,4 @@
-# WEEK 12 (WEEK OF MARCH 24)
+# WEEK 12 (WEEK OF July 21)
 > # Important Reminders
 > ### Course Assignment Submissions: <!-- {docsify-ignore} -->
 > * [Research and Reflection Journal](https://mycourses.nic.bc.ca/d2l/le/lessons/50267/topics/879182) assignment <span class='badge'> Mon Apr 6th, 2026 at 11:59pm PST</span>

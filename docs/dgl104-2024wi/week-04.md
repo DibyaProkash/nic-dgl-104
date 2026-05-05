@@ -1,4 +1,4 @@
-# WEEK 4 (WEEK OF JANUARY 28)
+# WEEK 4 (WEEK OF May 26)
 ## LECTURE - DEBUGGING & ISSUE TRACKING
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**

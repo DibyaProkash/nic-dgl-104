@@ -1,4 +1,4 @@
-# WEEK 10 (WEEK OF MARCH 11)
+# WEEK 10 (WEEK OF July 7)
 ## LECTURE - MV* PATTERNS
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**

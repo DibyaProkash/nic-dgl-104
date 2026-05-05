@@ -1,4 +1,4 @@
-# WEEK 3 (WEEK OF JANUARY 20)
+# WEEK 3 (WEEK OF May 19)
 ## LECTURE - REFACTORING
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**

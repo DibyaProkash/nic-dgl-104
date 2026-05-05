@@ -1,4 +1,4 @@
-# WEEK 13 (WEEK OF APRIL 1)
+# WEEK 13 (WEEK OF July 28)
 
 > # Important Reminders
 > ### Course Assignment Submissions: <!-- {docsify-ignore} -->

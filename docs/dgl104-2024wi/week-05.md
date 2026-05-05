@@ -1,4 +1,4 @@
-# WEEK 5 (WEEK OF FEBRUARY 4)
+# WEEK 5 (WEEK OF June 2)
 ## LECTURE - TESTING
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**

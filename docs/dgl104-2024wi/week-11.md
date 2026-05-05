@@ -1,4 +1,4 @@
-# WEEK 11 (WEEK OF MARCH 17)
+# WEEK 11 (WEEK OF July 14)
 ## LECTURE - OBJECT ORIENTED PROGRAMMING (OOP)
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**

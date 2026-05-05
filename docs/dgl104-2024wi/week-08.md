@@ -1,4 +1,4 @@
-# WEEK 8 (WEEK OF FEBRUARY 25)
+# WEEK 8 (WEEK OF June 23)
 ## MID-SEMESTER UPDATE
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**

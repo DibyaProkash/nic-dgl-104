@@ -1,4 +1,4 @@
-# WEEK 6 (WEEK OF FEBRUARY 11)
+# WEEK 6 (WEEK OF June 9)
 
 <!-- > # What’s Happening This Week -->
 > # Important Reminders

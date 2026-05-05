@@ -1,4 +1,4 @@
-# WEEK 1 (WEEK OF JANUARY 7)
+# WEEK 1 (WEEK OF May 5)
 ## LECTURE - PLATFORMS & MIT APP INVENTOR
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**

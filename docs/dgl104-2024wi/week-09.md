@@ -1,4 +1,4 @@
-# WEEK 9 (WEEK OF MARCH 4)
+# WEEK 9 (WEEK OF June 30)
 ## LECTURE - DESIGN PATTERNS
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**

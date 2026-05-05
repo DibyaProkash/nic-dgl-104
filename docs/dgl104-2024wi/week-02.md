@@ -1,4 +1,4 @@
-# WEEK 2 (WEEK OF JANUARY 14)
+# WEEK 2 (WEEK OF May 12)
 ## LECTURE - DOCUMENTATION & CODE REVIEW
 
 > Primary contributor: **[Ashley Blacquiere](https://ca.linkedin.com/in/ashley-blacquiere)**
