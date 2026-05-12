@@ -8,8 +8,6 @@
 ![Documentation and Code Review](images/code-documentation.jpg ':class=banner-image')
 
  
-> **Class note:** This week is half lecture, half hands-on workshop. Come to class having read this page — we'll spend the in-class time *practicing* rather than introducing concepts cold.
- 
 ---
  
 ## 1. WHY DOCUMENTATION ACTUALLY MATTERS
