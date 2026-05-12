@@ -435,9 +435,10 @@ If you completed the Space Invaders tutorial in Week 1, this week pick one more 
 <!-- - [PersonalImageClassifier](http://appinventor.mit.edu/explore/ai-with-mit-app-inventor) — AI in AI2 -->
 For this second tutorial:
  
-1. Push your work to a repository in our GitHub organization.
-2. Write a real README (use Section 6 as your guide).
-3. Participate in code review on your repo.
+1. Access the repository link from this URL: [Github Classroom](https://classroom.github.com/a/PKKXYd2S)
+2. Push your work to a repository in our GitHub organization.
+3. Write a real README (use Section 6 as your guide).
+4. Participate in code review on your repo.
 > **Heads up on AI2 + GitHub:** Because AI2 code blocks don't render on GitHub, the code-review process will be a bit unusual — your reviewer will need to download your `.aia` file and import it. We'll demonstrate the workflow in class.
  
 ### [RECOMMENDED] DOCUMENTATION SELF-AUDIT
