@@ -238,18 +238,6 @@ console.log(g.greet()); // Hello, world!
 - `src/` — source code
 - `tests/` — test files
 - `docs/` — additional documentation
-## Contributing
- 
-See [CONTRIBUTING.md](./CONTRIBUTING.md). PRs welcome.
- 
-## License
- 
-MIT — see [LICENSE](./LICENSE).
-```
- 
-Notice what's *not* there: no marketing fluff, no walls of text, no "this project does many things." Just answers to the seven questions, in order.
-
-```
  
 ## 7. COMMIT MESSAGES ARE DOCUMENTATION TOO
  
