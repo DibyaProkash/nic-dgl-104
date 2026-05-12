@@ -511,7 +511,7 @@ The same principle holds when you ask an LLM to **refactor**, **debug**, or **re
  
 > **Class note:** Required activities should be completed before next week. Recommended activities are worth doing if you have the time.
  
-### [REQUIRED] DOCUMENT YOUR WEEK 1 LAB
+<!-- ### [REQUIRED] DOCUMENT YOUR WEEK 1 LAB
  
 Add a real README to your Week 1 lab repository. It must answer the seven questions from Section 6 of this page. Keep it concise — quality over length.
  
@@ -529,7 +529,7 @@ You'll be paired with a classmate in Tuesday's lab. You will:
    - One about **documentation** (something missing or misleading)
    - One **positive** (something you genuinely liked)
 3. **Respond to every comment** they leave on *your* repo. Even just `Thanks, fixed in <commit hash>` counts.
-This is your first real exposure to async code review. It will feel slightly awkward. That's normal.
+This is your first real exposure to async code review. It will feel slightly awkward. That's normal. -->
  
 ### [REQUIRED] MIT APP INVENTOR — SECOND APP + DOCUMENTATION
  
