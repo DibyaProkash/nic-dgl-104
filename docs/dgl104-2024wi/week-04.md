@@ -389,8 +389,6 @@ This is how professional software development *actually works* — and how your 
  
 Rubrics for both the Programming Practice article and the AI2 project are on Brightspace. **Read them.** They're the criteria I'll grade your work against.
  
-After reading, post **either** a comment that demonstrates your understanding of the rubrics, **or** a question that will help you (and probably others) understand them better. Post in the course Slack/Teams channel.
- 
 > If something in a rubric is unclear, **say so**. Fixing an unclear rubric before grading helps everyone — including me.
  
 ### [REQUIRED] BUILD AN MVP OF YOUR AI2 PROJECT
@@ -428,6 +426,7 @@ Whichever approach fits your style, getting ideas on paper now is enormously val
  
 - **[MIT 6.005 Debugging notes](https://ocw.mit.edu/ans7870/6/6.005/s16/classes/11-debugging/)** — A precise, academic treatment of debugging principles. Worth bookmarking.
 - **[Julia Evans — Debugging zines](https://wizardzines.com/zines/bite-size-debugging/)** — Friendly, illustrated guides to debugging concepts. Genuinely fun.
+
 ### Tool-specific
  
 - **[Debugging in VS Code](https://code.visualstudio.com/Docs/editor/debugging)** — Comprehensive tour.
