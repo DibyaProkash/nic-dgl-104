@@ -427,6 +427,7 @@ Whichever approach fits your style, getting ideas on paper now is enormously val
 - **[MIT 6.005 Debugging notes](https://ocw.mit.edu/ans7870/6/6.005/s16/classes/11-debugging/)** — A precise, academic treatment of debugging principles. Worth bookmarking.
 - **[Julia Evans — Debugging zines](https://wizardzines.com/zines/bite-size-debugging/)** — Friendly, illustrated guides to debugging concepts. Genuinely fun.
 
+
 ### Tool-specific
  
 - **[Debugging in VS Code](https://code.visualstudio.com/Docs/editor/debugging)** — Comprehensive tour.
