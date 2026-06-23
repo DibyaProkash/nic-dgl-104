@@ -11,28 +11,233 @@ Most critical to this is a shift to the type of coding work that we'll be doing.
 
 More details on both assignments will be available on Brightspace.
 
-## LECTURE - FUNCTIONAL USER REQUIREMENTS
+---
+## THE BRIDGE: BUILDING THE RIGHT THING
 
-### USER STORIES
-To develop _useful_ apps the developer must have an understanding of user needs; however, it is common for software (or apps) to be developed by people who are not precisely the target end-users of that software (or, the developer may be a potential end-user, but perhaps represent only a small fraction of the target audience). 
+Through Weeks 1-5 we obsessed over **building things right** clean code, tests, documentation, refactoring. That's the verification side of software craft.
+ 
+Now we shift to the *other* question:
+ 
+> **How do we know we're building the right thing?**
+ 
+A perfectly engineered feature nobody uses is a perfectly engineered waste of time. The skill of identifying *what to build* before you write a line of code is at least as important as the skill of writing code well.
+ 
+The classical tool for this is **user stories** and the **functional user requirements** they generate.
+ 
+---
 
-There have been many [design-based methods and tools](https://en.wikipedia.org/wiki/User-centered_design) developed to address this and related issues. We will focus on the method of generating [user stories](https://en.wikipedia.org/wiki/User_story) in order to identify potential project requirements with the intention of developing functional user requirements that serve as a stronger technical foundation for development (see [functional user requirements](#functional-user-requirements) below).
+## 4. USER-CENTRED DEVELOPMENT - A SHORT HISTORY
+ 
+In the early days of software, requirements were written by analysts in dense formal documents. Developers then built whatever the document said. The result was famously bad: software that technically met the specification but didn't actually help anyone.
+ 
+In the 1990s and 2000s, the industry shifted toward [user-centred design](https://en.wikipedia.org/wiki/User-centered_design). Instead of starting from technical specifications, you start from **the user's perspective**. What are they trying to accomplish? What's getting in their way? What do they expect from a tool that solves their problem?
+ 
+The agile movement gave us a compact tool for capturing this: the **user story**.
+ 
+---
 
-A user story is a short statement written from the perspective of a user that describes a particular use of the software under development. Typically, user stories begin with "As a user..." and go on to explain what the user would expect of the software in a specific context. Generating user stories can help the developer empathize with the end-user by better understanding end-user needs and motivations. While rarely technical in nature, these stories can help the developer to generate clear specifications for software features and uses, especially if there is an associated opportunity for consultation with potential end-users via focus group, or similar.
+## 5. ANATOMY OF A USER STORY
+ 
+A user story is a short statement, written from the user's point of view, describing a specific use of the software.
+ 
+The classic template:
+ 
+```
+As a <type of user>,
+I want <some capability>,
+so that <some benefit>.
+```
+ 
+Three parts, each non-negotiable:
+ 
+| Part | What it answers |
+|---|---|
+| **As a <type of user>** | WHO are we building this for? |
+| **I want <capability>** | WHAT do they want to do? |
+| **so that <benefit>** | WHY do they want it? |
+ 
+### A first example
+ 
+A messaging app's new-contact feature:
+ 
+```
+As a user,
+I want to add new contacts to my contact list,
+so that I can message them without remembering phone numbers.
+```
+ 
+Notice what's *not* there: no mention of HTML, databases, REST APIs, or any technical detail. That's deliberate. User stories describe **the outcome the user wants**, not how you'll deliver it.
+ 
+### More from the same feature
+ 
+A single feature often spawns *many* user stories - each capturing a different angle:
+ 
+```
+As a user, I can open my contact list to send a message.
+As a user, I can open my contact list from a new-message text field.
+As a user, I can add new contacts to my contact list.
+As a user, I can search my contact list when it gets long.
+As a user, I can delete contacts I no longer message.
+```
+ 
+Each story is small. Each is implementable independently. Together they describe the whole feature.
+ 
+---
 
-### FUNCTIONAL USER REQUIREMENTS
-User stories enable a user-centred approach to the development of functional requirements. For our purposes, functional requirements will serve as the clear technical specifications of a software (i.e. app) feature that we would like to implement, although we might like to go a step further to define a complete technical specification or other document.   
+## 6. WHAT MAKES A USER STORY *GOOD* INVEST
+ 
+In 2003, Bill Wake coined the **INVEST** acronym for evaluating user stories. It still holds up:
+ 
+| Letter | Property | What it means |
+|---|---|---|
+| **I** | Independent | The story can be built without waiting on other stories |
+| **N** | Negotiable | It's a starting point for conversation, not a contract |
+| **V** | Valuable | A real user benefits when this is built |
+| **E** | Estimable | The team can guess how long it'll take |
+| **S** | Small | Fits in a single sprint / iteration |
+| **T** | Testable | We can verify it actually works |
+ 
+A story that fails one of these is usually too vague, too big, or too technical.
+ 
+### A bad story
+ 
+> *"The app should be user-friendly."*
+ 
+- **Independent?** Unrelated to any concrete capability.
+- **Valuable?** Yes, but vague.
+- **Testable?** *No.* What test would prove it's done?
+This isn't a user story - it's a wish.
+ 
+### A good story
+ 
+> *"As a customer, I can save my shipping address to my profile, so that I don't have to re-enter it at every checkout."*
+ 
+- **Independent?** Doesn't depend on payment processing or order history.
+- **Negotiable?** Could be a dropdown, a default address, or a checkbox - conversation needed.
+- **Valuable?** Saves the user time on every order.
+- **Estimable?** Roughly half a sprint of work.
+- **Small?** One coherent capability.
+- **Testable?** Yes - we can verify the saved address is reused at checkout.
+---
 
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/IunlLYZFkJQ"></iframe></div>
+## 7. ACCEPTANCE CRITERIA - WHEN IS A STORY *DONE*?
+ 
+The user story says *what*. The **acceptance criteria** say *when we're allowed to call it finished*.
+ 
+Acceptance criteria are a checklist ideally testable attached to the story:
+ 
+```
+Story: As a customer, I can save my shipping address to my profile,
+       so that I don't have to re-enter it at every checkout.
+ 
+Acceptance criteria:
+  -> User can enter and save a shipping address from their profile page.
+  -> The saved address auto-fills on the checkout screen.
+  -> The user can edit or delete the saved address from their profile.
+  -> The system supports both Canadian and US address formats.
+  -> An invalid postal code shows a clear error message.
+```
+ 
+This is the bridge from "user story" to "functional requirements". Each checkbox is verifiable. Each maps to one or more tests.
+ 
+### The Given-When-Then format
+ 
+A popular structured way to write acceptance criteria, borrowed from behaviour-driven development (BDD):
+ 
+```
+Given <the starting state>
+When <the user action happens>
+Then <the expected outcome>
+```
+ 
+Example:
+ 
+```
+Given I am logged in and on the checkout screen,
+When I select "Use saved address",
+Then my saved shipping address auto-fills the form.
+```
+ 
+This format is **testable by construction**. Each Given-When-Then maps almost directly to an automated test which is why teams adopt it as the bridge between user stories and the code that fulfils them.
+ 
+---
 
-Not all features are equally suited to be described by functional user requirements. Where it is possible, however, implementations are much more rigorous and are drawn directly from the specification with very little ambiguity. This is a huge help to early stage development.
+## 8. FUNCTIONAL USER REQUIREMENTS
+ 
+When user stories and acceptance criteria are mature, we can express them as **functional requirements** the precise technical specifications of features we'll implement.
+ 
+A functional requirement says **what the system MUST do** to satisfy the user need. Common shapes:
+ 
+```
+FR-12: The system shall allow registered users to save a shipping address.
+FR-13: The system shall display the saved address on the checkout page
+       when the user selects "Use saved address".
+FR-14: The system shall validate postal codes against both Canadian
+       and US format rules.
+```
+ 
+Notice the language: *"the system shall"*. That's the conventional voice of functional requirements. Each statement is:
+ 
+- **Testable** - we can write a test that proves the system does it
+- **Atomic** - one requirement, one capability
+- **Unambiguous** - no room for interpretation
+In larger projects, functional requirements get numbered (FR-12, FR-13...) and traced back to specific user stories and forward to specific tests. This is called a **traceability matrix**, it lets you say with confidence: *"Every user need is covered by a requirement, which is covered by a test."*
+ 
+### Functional vs non-functional
+ 
+You'll also hear about **non-functional requirements** properties of the system that aren't tied to a specific feature. Examples:
+ 
+- *"Pages must load in under 2 seconds."* (performance)
+- *"The system must support 10,000 concurrent users."* (scalability)
+- *"Personal data must be encrypted at rest."* (security)
+Both kinds matter. Functional requirements answer *"what does it do?"*; non-functional requirements answer *"how well does it have to do it?"*
+ 
+---
+
+## 9. WHEN USER STORIES *DON'T* FIT
+ 
+Not every feature is well-described by user stories. A few examples:
+ 
+| Feature type | Why user stories struggle |
+|---|---|
+| **Performance tuning** | "As a user, I want pages to load fast" is true but vague |
+| **Security hardening** | Users don't experience the absence of breaches |
+| **Refactoring** | No user-visible change at all |
+| **Infrastructure** | Migrating to a new database serves engineers, not users |
+ 
+For these, teams use other tools **technical stories**, **engineering tickets**, **service-level objectives (SLOs)**. User stories remain the primary tool for *user-facing features*; the others fill in around them.
+ 
+---
+
+## 10. AI-ASSISTED REQUIREMENTS WORK
+ 
+Generative AI is genuinely useful here  maybe more than for coding itself.
+ 
+### Where AI helps
+ 
+- **Generating user-story variations.** Paste a feature description, ask for 10 user stories from different user perspectives. Excellent for surfacing angles you'd miss.
+- **Listing acceptance criteria.** "Given this user story, list the criteria a reviewer would check."
+- **Spotting INVEST violations.** "Here's a user story score it against INVEST and flag any concerns."
+- **Translating between formats.** Story  Given-When-Then functional requirement  test case.
+### Where AI misleads
+ 
+- **Inventing user types.** AI may add personas your product doesn't actually have ("As an administrator..." when there are no admins).
+- **Confident vagueness.** AI happily produces stories like "As a user, I want a great experience", which are unfalsifiable.
+- **Missing the human context.** AI doesn't know your real users. Use it to expand options, not to skip user research.
+### A useful prompt
+ 
+> *"Here's a feature description. Generate 8 user stories vary the user type, the context, and the motivation. For each, also list 3 acceptance criteria in Given-When-Then format. Do not invent user types I haven't mentioned."*
+ 
+You get a structured first draft. You then edit it. The thinking still has to be yours.
+ 
+---
 
 ## ACTIVITIES
 
-### [RECOMMENDED] READ THE RESEARCH & REFLECTION ASSIGNMENT
+<!-- ### [RECOMMENDED] READ THE RESEARCH & REFLECTION ASSIGNMENT
 Make sure to visit the description of the Research & Reflection assignment on Brightspace. You should read the assignment description and the rubric in detail to familiarize yourself with expectations.
 
-> The next two activities (each a research and reflection activity) are practice for what you will be doing on a regular basis in your Research and Reflection Journal assignment. The key difference is that for that assignment, I won't always post prompt questions for you to respond to - you must take some initiative yourself in writing your own questions to research and reflect on. 
+> The next two activities (each a research and reflection activity) are practice for what you will be doing on a regular basis in your Research and Reflection Journal assignment. The key difference is that for that assignment, I won't always post prompt questions for you to respond to - you must take some initiative yourself in writing your own questions to research and reflect on.  -->
 
 ### [REQUIRED] RESEARCH A NEW LANGUAGE 
 > I recommend you do this activity in pairs, or in a group of three, if you can arrange it.
@@ -50,8 +255,8 @@ To practice the notion of research and reflection you will do a bit of research 
 
 I don't expect your answers to the questions above to be *complete* (i.e. when you tell me what the language is for, I don't expect you to tell me all of its uses), but you should be *specific*. In other words, if you tell me that Processing is used for database management (protip: it isn't) then you should show some evidence by pointing to a project website or repository. Similarly for the who, the what the the why questions.
 
-### [RECOMMENDED] REFLECT ON MATTERMOST NEW LANGUAGE RESPONSES
-In theory, by the end of the week we should have a couple dozen or more responses on Mattermost to the required activity above. Take some time to read them, then write a short reflection on Mattermost stating what you've learned from the process. When writing your reflection consider both the research you've done and what you've learned in reading other posts. Your reflection need not be more than a paragraph, and can be a stand-alone post, or a reply to another post.
+<!-- ### [RECOMMENDED] REFLECT ON MATTERMOST NEW LANGUAGE RESPONSES
+In theory, by the end of the week we should have a couple dozen or more responses on Mattermost to the required activity above. Take some time to read them, then write a short reflection on Mattermost stating what you've learned from the process. When writing your reflection consider both the research you've done and what you've learned in reading other posts. Your reflection need not be more than a paragraph, and can be a stand-alone post, or a reply to another post. -->
 
 ### [REQUIRED] WRITE A USER STORY
 > I recommend you do this activity in pairs, or in a group of three, if you can arrange it. 
