@@ -60,8 +60,8 @@ You may also find that your project of choice has very little information about 
 
 You may also find that your project of choice has very little information about contributing, but points potential contributors to some sort of asynchronous community workspace (i.e. Discord, Slack, Gitter, Zulip, etc.) In this case, you may want to try to join that community to learn a bit more (i.e. by reading posts and gathering information - there is no requirement for you to communicate directly with your community, if you do not feel comfortable doing so).
 
-### [REQUIRED] WRITE A SUMMARY ON MATTERMOST
-Share a summary on Mattermost of what you have learned about your community in terms of contributing. Explain whether your community is clear in how they expect contributors to contribute, and if there are clear guides supporting new contributors. 
+<!-- ### [REQUIRED] WRITE A SUMMARY ON MATTERMOST
+Share a summary on Mattermost of what you have learned about your community in terms of contributing. Explain whether your community is clear in how they expect contributors to contribute, and if there are clear guides supporting new contributors.  -->
 
 ### [REQUIRED] CONTRIBUTE TO EXTERNAL COMMUNITY
 Now that you have a potential issue in hand, and you have an understanding of your community's preferences in terms of contributions you should be ready to begin work on your contribution. 
